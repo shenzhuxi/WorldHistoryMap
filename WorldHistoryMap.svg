@@ -75,10 +75,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="554.5"
-     inkscape:cy="3984.7168"
+     inkscape:cx="130.20312"
+     inkscape:cy="2452.0892"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="a3397"
      showgrid="true"
      inkscape:window-width="1074"
      inkscape:window-height="1058"
@@ -319,6 +319,10 @@
        orientation="0,1"
        position="-50,3250"
        id="guide3392" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-50,3550"
+       id="guide3364" />
   </sodipodi:namedview>
   <metadata
      id="metadata3069">
@@ -343,7 +347,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,3947.6378)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.0606178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2999"
@@ -396,7 +401,7 @@
          y="-947.63782">A. D.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1947.6378"
        id="text4512"
@@ -749,10 +754,11 @@
          sodipodi:role="line"
          id="tspan4723"
          x="0"
-         y="-2347.6377">1400</tspan></text>
+         y="-2347.6377"
+         style="font-size:20px">1400</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-2247.6377"
        id="text4725"
@@ -763,7 +769,7 @@
          y="-2247.6377">1300</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-2147.6377"
        id="text4729"
@@ -774,7 +780,7 @@
          y="-2147.6377">1200</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-2047.6378"
        id="text4733"
@@ -785,7 +791,7 @@
          y="-2047.6378">1100</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1847.6378"
        id="text4737"
@@ -796,7 +802,7 @@
          y="-1847.6378">900</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1747.6378"
        id="text4741"
@@ -807,7 +813,7 @@
          y="-1747.6378">800</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1647.6378"
        id="text4745"
@@ -1050,7 +1056,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3223"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr"><flowRegion
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3225"><rect
            id="rect3227"
            width="138"
@@ -1061,7 +1067,7 @@
          id="flowPara3229" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3231"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3233"><rect
            id="rect3235"
            width="140"
@@ -1095,7 +1101,9 @@
        sodipodi:linespacing="125%"
        transform="translate(0,-3947.6378)"><tspan
          sodipodi:role="line"
-         id="tspan3262" /></text>
+         id="tspan3262"
+         x="115"
+         y="1079.5" /></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 0,600 1000,0"
@@ -1142,6 +1150,18 @@
          id="tspan3424"
          x="900"
          y="-2967.6377">4.2 kiloyear event</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="170"
+       y="1532"
+       id="text3378"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-3947.6378)"><tspan
+         sodipodi:role="line"
+         id="tspan3380"
+         x="170"
+         y="1532"></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1985,5 +2005,121 @@
          x="1520"
          y="-650"
          style="font-size:20px">Elam</tspan></text>
+    <a
+       id="a3348"
+       xlink:href="http://en.wikipedia.org/wiki/Second_Intermediate_Period_of_Egypt">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3344"
+         y="1440"
+         x="220"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1440"
+           x="220"
+           id="tspan3346"
+           sodipodi:role="line">2nd Intermediate Period</tspan></text>
+    </a>
+    <a
+       id="a3356"
+       xlink:href="http://en.wikipedia.org/wiki/First_Intermediate_Period_of_Egypt">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3352"
+         y="1000"
+         x="240"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px"
+           y="1000"
+           x="240"
+           id="tspan3354"
+           sodipodi:role="line">1st Intermediate Period</tspan></text>
+    </a>
+    <a
+       xlink:href="New_Kingdom_of_Egypt"
+       id="a3366">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3360"
+         y="-300"
+         x="1450"
+         style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-300"
+           x="1450"
+           id="tspan3362"
+           sodipodi:role="line">New Kingdom</tspan></text>
+    </a>
+    <a
+       id="a3374"
+       xlink:href="http://en.wikipedia.org/wiki/Third_Intermediate_Period_of_Egypt">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3370"
+         y="-180"
+         x="1940"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:30px"
+           y="-180"
+           x="1940"
+           id="tspan3372"
+           sodipodi:role="line">3rd Intermediate Period</tspan></text>
+    </a>
+    <a
+       id="a3386"
+       xlink:href="http://en.wikipedia.org/wiki/Mycenaean_Greece">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3382"
+         y="-160"
+         x="1400"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-160"
+           x="1400"
+           id="tspan3384"
+           sodipodi:role="line">Mycenaean Greece</tspan></text>
+    </a>
+    <a
+       id="a3397"
+       xlink:href="http://en.wikipedia.org/wiki/Classical_Greece"
+       transform="translate(-10,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3390"
+         y="2530"
+         x="170"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="2530"
+           x="170"
+           id="tspan3392"
+           sodipodi:role="line">Classical </tspan><tspan
+           id="tspan3395"
+           y="2570"
+           x="170"
+           sodipodi:role="line">Greece</tspan></text>
+    </a>
+    <a
+       id="a3406"
+       xlink:href="http://en.wikipedia.org/wiki/Peloponnesian_War"
+       transform="translate(-20,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3402"
+         y="2590"
+         x="210"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="2590"
+           x="210"
+           id="tspan3404"
+           sodipodi:role="line">Peloponnesian War</tspan></text>
+    </a>
   </g>
 </svg>
