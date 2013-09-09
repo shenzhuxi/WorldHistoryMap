@@ -75,10 +75,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="130.20312"
-     inkscape:cy="2452.0892"
+     inkscape:cx="332.20312"
+     inkscape:cy="2490.0892"
      inkscape:document-units="px"
-     inkscape:current-layer="a3397"
+     inkscape:current-layer="a3389"
      showgrid="true"
      inkscape:window-width="1074"
      inkscape:window-height="1058"
@@ -347,8 +347,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,3947.6378)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.0606178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2999"
@@ -482,7 +481,7 @@
          y="-2447.6377">B. C. 1500</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1447.6378"
        id="text4594"
@@ -832,7 +831,8 @@
          sodipodi:role="line"
          id="tspan4751"
          x="0"
-         y="-1547.6378">600</tspan></text>
+         y="-1547.6378"
+         style="font-size:20px">600</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1161,7 +1161,7 @@
          sodipodi:role="line"
          id="tspan3380"
          x="170"
-         y="1532"></tspan></text>
+         y="1532" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1453,7 +1453,7 @@
     <a
        id="a3239"
        xlink:href="http://en.wikipedia.org/wiki/Aegean_civilizations"
-       transform="translate(0,-150)">
+       transform="translate(-10,-150)">
       <text
          sodipodi:linespacing="125%"
          id="text3215"
@@ -2104,6 +2104,22 @@
            y="2570"
            x="170"
            sodipodi:role="line">Greece</tspan></text>
+      <a
+         id="a3372"
+         xlink:href="http://en.wikipedia.org/wiki/Dorian_invasion">
+        <text
+           transform="matrix(0,1,-1,0,0,0)"
+           sodipodi:linespacing="125%"
+           id="text3368"
+           y="-110"
+           x="1580"
+           style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="-110"
+             x="1580"
+             id="tspan3370"
+             sodipodi:role="line">Dorian invasion</tspan></text>
+      </a>
     </a>
     <a
        id="a3406"
@@ -2120,6 +2136,38 @@
            x="210"
            id="tspan3404"
            sodipodi:role="line">Peloponnesian War</tspan></text>
+    </a>
+    <a
+       id="a3380"
+       xlink:href="http://en.wikipedia.org/wiki/Greek_Dark_Ages">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3376"
+         y="-110"
+         x="1900"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-110"
+           x="1900"
+           id="tspan3378"
+           sodipodi:role="line">Greek Dark Ages</tspan></text>
+    </a>
+    <a
+       id="a3389"
+       xlink:href="http://en.wikipedia.org/wiki/Archaic_Greece">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3385"
+         y="-140"
+         x="2200"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-140"
+           x="2200"
+           id="tspan3387"
+           sodipodi:role="line">Archaic Greece</tspan></text>
     </a>
   </g>
 </svg>
