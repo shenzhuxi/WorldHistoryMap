@@ -75,10 +75,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="332.20312"
-     inkscape:cy="2490.0892"
+     inkscape:cx="380.55729"
+     inkscape:cy="3581.4934"
      inkscape:document-units="px"
-     inkscape:current-layer="a3389"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1074"
      inkscape:window-height="1058"
@@ -323,6 +323,14 @@
        orientation="0,1"
        position="-50,3550"
        id="guide3364" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,3650"
+       id="guide3422" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="160,4350"
+       id="guide3447" />
   </sodipodi:namedview>
   <metadata
      id="metadata3069">
@@ -1142,14 +1150,14 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="900"
-       y="-2967.6377"
+       x="1000"
+       y="-2957.6377"
        id="text3422"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3424"
-         x="900"
-         y="-2967.6377">4.2 kiloyear event</tspan></text>
+         x="1000"
+         y="-2957.6377">4.2 kiloyear event</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1192,7 +1200,7 @@
     </path>
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 590,1000 -10,50 -30,50 0,50 -55,50 -45,50 -15,50 25,50 10,50 25,50 40,50 -15,50 5,50 25,50 15,50 15,50 30,50 35,50 -40,50 -50,50 -40,50 -55,50 35,50 110,50 30,50 -15,50 -10,50 -45,50 -145,50 -20,50 5,50 20,50 65,50 -50,-50 -15,-50 45,-45 85,-55 65,-50 15,-50 20,-50 25,-50 10,-50 -40,-50 15,-50 -15,-50 -10,-50 15,-50 15,-50 -25,-50 -30,-50 -10,-50 15,-50 -10,-50 -5,-50 25,-50 -20,-50 5,-50 0,-50 -5,-50 -10,-50 30,-50 40,-50 0,-50 -5,-50 35,-50 0,-100 -10,-100 10,-50 -40,-50 10,-50 -30,-50 -10,50 10,50 -20,50 20,50 -30,100 z"
+       d="m 590,1000 -10,50 -30,50 0,50 -55,50 -45,50 -15,50 25,50 10,50 25,50 40,50 -15,50 5,50 25,50 15,50 15,50 30,50 35,50 -40,50 -50,50 -40,50 -55,50 35,50 110,50 30,50 -15,50 -10,50 -45,50 -145,50 -20,50 5,50 20,50 65,50 -50,-50 -15,-50 45,-45 85,-55 65,-50 15,-50 20,-50 25,-50 10,-50 -40,-50 15,-50 -15,-50 -10,-50 15,-50 15,-50 -25,-50 -30,-50 -10,-50 15,-50 -10,-50 -5,-50 25,-50 -20,-50 5,-50 0,-50 -5,-50 -10,-50 30,-50 40,-50 0,-50 -5,-50 35,-50 0,-100 -10,-100 10,-50 -10,-50 -20,-50 -40,-100 0,100 10,50 -20,50 20,50 -30,100 z"
        id="path6304"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -1232,10 +1240,10 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,2210 5,35 5,55 5,50 5,50 10,50 5,50 10,50 15,50 15,50 25,50 85,50 105,50 150,50 55,50 5,50 20,-50 -35,-50 -90,-50 -5,-50 30,-50 0,-50 -95,-50 -55,-50 -60,-50 -55,-50 -25,-50 -15,-50 -25,-50 0,-55 -15,-45 -10,-50 -5,-50 10,-50 0,-45 10,-50 0,-55 -20,-100 -15,-50 -10,-50 -5,-50 0,-50 -30,-50 z"
+       d="m 100,2250 10,50 5,50 5,50 10,50 5,50 10,50 15,50 15,50 25,50 85,50 105,50 150,50 55,50 5,50 20,-50 -35,-50 -90,-50 -5,-50 30,-50 0,-50 -95,-50 -55,-50 -60,-50 -55,-50 -25,-50 -15,-50 -25,-50 0,-55 -15,-45 -10,-50 -5,-50 10,-50 0,-45 10,-50 0,-55 -20,-100 -15,-50 -10,-50 -5,-50 0,-50 -30,-50 z"
        id="path3901"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 235,1950 -30,50 5,50 -10,50 -5,50 10,50 5,45 5,55 55,50 20,50 -5,-50 -45,-50 10,-55 -5,-45 -10,-50 -10,-50 0,-50 0,-50 z"
@@ -1285,10 +1293,10 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,2200 0,400 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 30,50 -30,50 -45,50 70,0 -15,50 10,50 0,50 15,50 30,50 45,50 35,50 30,50 -20,50 -25,50 10,50 55,50 85,50 10,50 20,50 -30,50 -80,50 -55,50 15,50 -20,50 50,50 15,50 0,-50 -40,-50 25,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -55,-50 -50,-50 -10,-50 60,-50 80,-50 45,-50 65,-50 50,-50 10,-50 -30,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -5,-50 z"
+       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 30,50 -30,50 -45,50 70,0 -15,50 10,50 0,50 15,50 30,50 45,50 35,50 30,50 -20,50 -25,50 10,50 55,50 85,50 10,50 20,50 -30,50 -80,50 -55,50 15,50 -20,50 50,50 15,50 0,-50 -40,-50 25,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -55,-50 -50,-50 -10,-50 60,-50 80,-50 45,-50 65,-50 50,-50 10,-50 -30,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -10,-50 z"
        id="path3992"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,50 15,50 15,50 35,50 45,50 30,50 -30,50 -45,50 5,50 60,50 0,50 -15,50 20,50 35,50 85,50 -155,-50 -30,-50 -15,-50 -20,-50 -30,-50 0,-50 -10,-50 -15,-50 -20,-50 -10,-50 z"
@@ -1510,7 +1518,7 @@
     <a
        id="a3299"
        xlink:href="http://en.wikipedia.org/wiki/History_of_Iran"
-       transform="translate(55,-144)">
+       transform="translate(65,-114)">
       <text
          sodipodi:linespacing="125%"
          id="text3279"
@@ -1527,7 +1535,7 @@
     <a
        id="a3291"
        xlink:href="http://en.wikipedia.org/wiki/Amorites"
-       transform="translate(-128,376)">
+       transform="translate(-87.999982,276.00001)">
       <text
          sodipodi:linespacing="125%"
          id="text3283"
@@ -1545,7 +1553,7 @@
     <a
        id="a3295"
        xlink:href="http://en.wikipedia.org/wiki/Hittites"
-       transform="translate(-120,230)">
+       transform="translate(-120,120)">
       <text
          sodipodi:linespacing="125%"
          id="text3287"
@@ -1629,7 +1637,8 @@
          style="font-size:20px">5000</tspan></text>
     <a
        id="a3344"
-       xlink:href="http://en.wikipedia.org/wiki/Pre-Imperial_China#Xia_Dynasty_.28c._2100_.E2.80.93_c._1600_BC.29">
+       xlink:href="http://en.wikipedia.org/wiki/Pre-Imperial_China#Xia_Dynasty_.28c._2100_.E2.80.93_c._1600_BC.29"
+       transform="translate(-30.000029,20.000001)">
       <text
          transform="matrix(-0.00254572,0.99999676,-0.99999676,-0.00254572,0,0)"
          sodipodi:linespacing="125%"
@@ -1665,9 +1674,9 @@
     <a
        id="a3388"
        xlink:href="http://en.wikipedia.org/wiki/Yangshao_culture"
-       transform="matrix(-0.04664769,0.9989114,-0.9989114,-0.04664769,1743.8206,-92.915467)"
-       inkscape:transform-center-x="-64.641695"
-       inkscape:transform-center-y="-29.513709">
+       transform="matrix(-0.01837304,0.9998312,-0.9998312,-0.01837304,1750.8884,-123.52998)"
+       inkscape:transform-center-x="-63.097399"
+       inkscape:transform-center-y="-31.309543">
       <text
          sodipodi:linespacing="125%"
          id="text3384"
@@ -1683,7 +1692,7 @@
     <a
        id="a3396"
        xlink:href="http://en.wikipedia.org/wiki/Sanxingdui"
-       transform="translate(9.9999761,-950.00003)">
+       transform="translate(59.999976,-930.00003)">
       <text
          transform="matrix(-0.00953513,0.99995454,-0.99995454,-0.00953513,0,0)"
          sodipodi:linespacing="125%"
@@ -1764,19 +1773,19 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="923.44452"
-       y="-761.15057"
+       x="879.43402"
+       y="-814.00958"
        id="text3416"
        sodipodi:linespacing="125%"
-       transform="matrix(0.04282632,0.99908253,-0.99908253,0.04282632,0,0)"><tspan
+       transform="matrix(-0.01261598,0.99992042,-0.99992042,-0.01261598,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3418"
-         x="923.44452"
-         y="-761.15057">Afanasevo</tspan></text>
+         x="879.43402"
+         y="-814.00958">Afanasevo</tspan></text>
     <a
        id="a3323"
        xlink:href="http://en.wikipedia.org/wiki/Early_Dynastic_Period_of_Sumer"
-       transform="translate(20.000021,1.695785e-5)">
+       transform="matrix(0,-1,1,0,-299.99998,1160)">
       <text
          transform="matrix(0.03004859,0.99954844,-0.99954844,0.03004859,0,0)"
          sodipodi:linespacing="125%"
@@ -1843,117 +1852,123 @@
            sodipodi:role="line">Egyptian calendar</tspan></text>
     </a>
     <a
-       id="a4244"
-       xlink:href="http://en.wikipedia.org/wiki/Akkadian_Empire"
-       transform="translate(-20,0)">
+       id="a3460"
+       xlink:href="https://en.wikipedia.org/wiki/Akkadian_Empire"
+       transform="translate(10,-20)">
       <text
          sodipodi:linespacing="125%"
          id="text4240"
          y="1000"
-         x="610"
+         x="590"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-size:10px"
            y="1000"
-           x="610"
+           x="590"
            id="tspan4242"
-           sodipodi:role="line">Akkadian</tspan></text>
+           sodipodi:role="line">Akkadian Empire</tspan></text>
+    </a>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3343"
+       y="1000"
+       x="600"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="1000"
+         x="600"
+         id="tspan3345"
+         sodipodi:role="line">Ur III Empire</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3363"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3365"><rect
+           id="rect3367"
+           width="59"
+           height="41"
+           x="583"
+           y="624" /></flowRegion><flowPara
+         id="flowPara3369">VvMesopotamia</flowPara></flowRoot>    <a
+       id="a3375"
+       xlink:href="http://en.wikipedia.org/wiki/Mesopotamia"
+       transform="translate(50,-140)">
       <text
-         xml:space="preserve"
-         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="990"
-         y="-660"
-         id="text3343"
          sodipodi:linespacing="125%"
-         transform="matrix(0,1,-1,0,0,0)"><tspan
-           sodipodi:role="line"
-           id="tspan3345"
-           x="990"
-           y="-660">Ur III Empire</tspan></text>
-      <flowRoot
-         transform="translate(20,0)"
+         id="text3371"
+         y="660"
+         x="550"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot3363"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3365"><rect
-             y="624"
-             x="583"
-             height="41"
-             width="59"
-             id="rect3367" /></flowRegion><flowPara
-           id="flowPara3369">VvMesopotamia</flowPara></flowRoot>      <a
-         transform="translate(50,-140)"
-         xlink:href="http://en.wikipedia.org/wiki/Mesopotamia"
-         id="a3375">
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="550"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
            y="660"
-           id="text3371"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3373"
-             x="550"
-             y="660"
-             style="font-size:20px">Mesopotamia</tspan></text>
-      </a>
+           x="550"
+           id="tspan3373"
+           sodipodi:role="line">Mesopotamia</tspan></text>
     </a>
     <a
        id="a3319"
        xlink:href="http://en.wikipedia.org/wiki/Halaf_period"
-       transform="matrix(-0.0276717,0.99961707,-0.99961707,-0.0276717,1370.7895,284.06292)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text3315"
-         y="720.93701"
-         x="366.02679"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:20px"
-           y="720.93701"
+       transform="matrix(-0.0276717,0.99961707,-0.99961707,-0.0276717,1390.7895,244.06292)">
+      <a
+         id="a3441"
+         xlink:href="https://en.wikipedia.org/wiki/Halaf_period">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
            x="366.02679"
-           id="tspan3317"
-           sodipodi:role="line">Halaf</tspan></text>
+           y="720.93701"
+           id="text3315"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3317"
+             x="366.02679"
+             y="720.93701"
+             style="font-size:20px">Halaf</tspan></text>
+      </a>
     </a>
     <a
        id="a3331"
        xlink:href="http://en.wikipedia.org/wiki/Uruk_period"
-       transform="translate(19.981444,24.176247)">
-      <text
-         transform="matrix(-0.04274334,0.99908609,-0.99908609,-0.04274334,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3327"
-         y="-653.89551"
-         x="778.58563"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="-653.89551"
-           x="778.58563"
-           id="tspan3329"
-           sodipodi:role="line">Uruk</tspan></text>
+       transform="translate(39.981441,4.1762306)">
+      <a
+         id="a3437"
+         xlink:href="https://en.wikipedia.org/wiki/Uruk_period">
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="768.59479"
+           y="-653.46808"
+           id="text3327"
+           sodipodi:linespacing="125%"
+           transform="matrix(-0.04274334,0.99908609,-0.99908609,-0.04274334,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3329"
+             x="768.59479"
+             y="-653.46808">Uruk Period</tspan></text>
+      </a>
     </a>
     <a
        id="a3339"
        xlink:href="http://en.wikipedia.org/wiki/Ubaid_period"
-       transform="translate(55.890566,-4.7420294)">
+       transform="translate(65.89061,-84.742027)">
       <text
          transform="matrix(0.0111353,0.999938,-0.999938,0.0111353,0,0)"
          sodipodi:linespacing="125%"
          id="text3335"
-         y="-586.00238"
-         x="731.31268"
+         y="-556.89502"
+         x="650.98358"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           style="font-size:20px"
-           y="-586.00238"
-           x="731.31268"
+           style="font-size:40px"
+           y="-556.89502"
+           x="650.98358"
            id="tspan3337"
-           sodipodi:role="line">Ubaid</tspan></text>
+           sodipodi:role="line">Ubaid Period</tspan></text>
     </a>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
        x="420"
        y="1730"
        id="text3388"
@@ -1962,7 +1977,7 @@
          id="tspan3390"
          x="420"
          y="1730"
-         style="font-size:12px">Battle of Kadesh</tspan></text>
+         style="font-size:12px;fill:#ff0000">Battle of Kadesh</tspan></text>
     <a
        id="a3398"
        xlink:href="http://en.wikipedia.org/wiki/Syro-Hittite"
@@ -1995,15 +2010,14 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1520"
-       y="-650"
+       x="680"
+       y="1050"
        id="text3417"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3419"
-         x="1520"
-         y="-650"
+         x="680"
+         y="1050"
          style="font-size:20px">Elam</tspan></text>
     <a
        id="a3348"
@@ -2124,13 +2138,14 @@
     <a
        id="a3406"
        xlink:href="http://en.wikipedia.org/wiki/Peloponnesian_War"
-       transform="translate(-20,0)">
+       transform="translate(-20,0)"
+       style="fill:#ff0000">
       <text
          sodipodi:linespacing="125%"
          id="text3402"
          y="2590"
          x="210"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="2590"
            x="210"
@@ -2169,5 +2184,275 @@
            id="tspan3387"
            sodipodi:role="line">Archaic Greece</tspan></text>
     </a>
+    <a
+       id="a3381"
+       xlink:href="http://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great"
+       style="fill:#ff0000">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3377"
+         y="2680"
+         x="220"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="2680"
+           x="220"
+           id="tspan3379"
+           sodipodi:role="line">Wars of Alexander the Great</tspan></text>
+    </a>
+    <a
+       id="a3393"
+       xlink:href="http://en.wikipedia.org/wiki/Hellenistic_Greece">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3386"
+         y="-470"
+         x="2680"
+         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-470"
+           x="2680"
+           id="tspan3388"
+           sodipodi:role="line">Hellenistic </tspan><tspan
+           id="tspan3391"
+           y="-435"
+           x="2680"
+           sodipodi:role="line">Greece</tspan></text>
+    </a>
+    <a
+       id="a3402"
+       xlink:href="http://en.wikipedia.org/wiki/Ptolemaic_Egypt">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3398"
+         y="-500"
+         x="2700"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-500"
+           x="2700"
+           id="tspan3400"
+           sodipodi:role="line">Ptolemaic Egypt</tspan></text>
+    </a>
+    <a
+       id="a3410"
+       xlink:href="http://en.wikipedia.org/wiki/Founding_of_Rome">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3406"
+         y="-100"
+         x="2290"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-100"
+           x="2290"
+           id="tspan3408"
+           sodipodi:role="line">Founding of Rome</tspan></text>
+    </a>
+    <a
+       id="a3418"
+       xlink:href="http://en.wikipedia.org/wiki/Hittites#The_New_Kingdom">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3414"
+         y="-480"
+         x="1600"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-480"
+           x="1600"
+           id="tspan3416"
+           sodipodi:role="line">New Kingdom</tspan></text>
+    </a>
+    <a
+       id="a3430"
+       xlink:href="http://en.wikipedia.org/wiki/Hittites#The_Middle_Kingdom">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3424"
+         y="-490"
+         x="1500"
+         style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-490"
+           x="1500"
+           id="tspan3426"
+           sodipodi:role="line">Middle </tspan><tspan
+           id="tspan3428"
+           y="-462.5"
+           x="1500"
+           sodipodi:role="line">Kingdom</tspan></text>
+    </a>
+    <a
+       id="a3439"
+       xlink:href="http://en.wikipedia.org/wiki/Hittites#Early_period"
+       transform="matrix(0,1,-1,0,1675,634)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3435"
+         y="1245"
+         x="546"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1245"
+           x="546"
+           id="tspan3437"
+           sodipodi:role="line">Early period</tspan></text>
+      <a
+         id="a3447"
+         xlink:href="http://en.wikipedia.org/wiki/Hittites#The_Old_Kingdom"
+         transform="matrix(0,1,-1,0,1852.541,372.36523)">
+        <text
+           transform="matrix(0,-1,1,0,0,0)"
+           sodipodi:linespacing="125%"
+           id="text3443"
+           y="872.63477"
+           x="-1166.541"
+           style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="872.63477"
+             x="-1166.541"
+             id="tspan3445"
+             sodipodi:role="line">Old Kindom</tspan></text>
+      </a>
+    </a>
+    <a
+       id="a3455"
+       xlink:href="http://en.wikipedia.org/wiki/Dawenkou_culture"
+       transform="translate(30,-60)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3451"
+         y="-870"
+         x="900"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="-870"
+           x="900"
+           id="tspan3453"
+           sodipodi:role="line">Dawenkou</tspan></text>
+    </a>
+    <a
+       id="a3463"
+       xlink:href="http://en.wikipedia.org/wiki/Longshan_culture"
+       transform="translate(30,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3459"
+         y="-880"
+         x="910"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-880"
+           x="910"
+           id="tspan3461"
+           sodipodi:role="line">Longshan</tspan></text>
+    </a>
+    <a
+       id="a3471"
+       xlink:href="http://en.wikipedia.org/wiki/List_of_Neolithic_cultures_of_China"
+       transform="translate(0,-80)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3467"
+         y="-870"
+         x="950"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-870"
+           x="950"
+           id="tspan3469"
+           sodipodi:role="line">Neolithic cultures of China</tspan></text>
+    </a>
+    <a
+       id="a3479"
+       xlink:href="http://en.wikipedia.org/wiki/Shang_Dynasty">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3475"
+         y="-860"
+         x="1650"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-860"
+           x="1650"
+           id="tspan3477"
+           sodipodi:role="line">Shang Dynasty</tspan></text>
+    </a>
+    <a
+       id="a3422"
+       xlink:href="https://en.wikipedia.org/wiki/D%CA%BFmt">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3418"
+         y="-210"
+         x="2150"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-210"
+           x="2150"
+           id="tspan3420"
+           sodipodi:role="line">Dʿmt</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="910"
+       y="-670"
+       id="text3449"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3451"
+         x="910"
+         y="-670">Early </tspan><tspan
+         sodipodi:role="line"
+         x="910"
+         y="-647.5"
+         id="tspan3458">Dynastic </tspan><tspan
+         sodipodi:role="line"
+         x="910"
+         y="-625"
+         id="tspan3456">Period</tspan></text>
+    <a
+       id="a3468"
+       xlink:href="https://en.wikipedia.org/wiki/Gutian_dynasty_of_Sumer"
+       transform="translate(327,298)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3464"
+         y="692"
+         x="313"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:8px"
+           y="692"
+           x="313"
+           id="tspan3466"
+           sodipodi:role="line">Gutian dynasty</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1030"
+       y="-600"
+       id="text3472"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3474"
+         x="1030"
+         y="-600">Babylonia</tspan></text>
   </g>
 </svg>
