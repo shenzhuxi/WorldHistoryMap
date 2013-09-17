@@ -75,16 +75,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="508.28125"
-     inkscape:cy="2411.7198"
+     inkscape:cx="372.55281"
+     inkscape:cy="2701.1176"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1381"
-     inkscape:window-height="856"
-     inkscape:window-x="59"
+     inkscape:window-width="960"
+     inkscape:window-height="1058"
+     inkscape:window-x="2343"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -141,7 +141,7 @@
        id="guide3148" />
     <sodipodi:guide
        orientation="0,1"
-       position="-95,2100"
+       position="710,2100"
        id="guide3150" />
     <sodipodi:guide
        orientation="0,1"
@@ -193,16 +193,12 @@
        id="guide3174" />
     <sodipodi:guide
        orientation="0,1"
-       position="-90,3000"
+       position="300,3000"
        id="guide3176" />
     <sodipodi:guide
        orientation="0,1"
        position="-140,2900"
        id="guide3178" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="-140,2800"
-       id="guide3180" />
     <sodipodi:guide
        orientation="0,1"
        position="-90,2700"
@@ -339,6 +335,10 @@
        orientation="0,1"
        position="40,3050"
        id="guide3485" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="20,3150"
+       id="guide3514" />
   </sodipodi:namedview>
   <metadata
      id="metadata3069">
@@ -851,7 +851,7 @@
          style="font-size:20px">600</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1352.6378"
        id="text4753"
@@ -862,7 +862,7 @@
          y="-1352.6378">400</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1247.6378"
        id="text4757"
@@ -873,7 +873,7 @@
          y="-1247.6378">300</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1147.6378"
        id="text4761"
@@ -884,7 +884,7 @@
          y="-1147.6378">200</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-1047.6378"
        id="text4765"
@@ -895,7 +895,7 @@
          y="-1047.6378">100</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-847.63782"
        id="text4769"
@@ -1192,13 +1192,13 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff00ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 210,1000 0,-250 350,250 -20,50 -10,50 -20,50 -80,50 -55,50 -10,50 15,50 -5,50 40,50 30,50 -15,50 -10,50 15,50 25,50 10,50 -95,50 -105,55 -15,45 -20,50 -30,50 5,50 -10,50 -5,50 10,50 5,50 5,50 55,50 20,50 -15,50 55,50 50,50 70,50 70,50 15,50 -10,50 -15,50 90,50 30,50 -20,50 20,50 -30,-50 20,-50 -35,-50 -90,-50 -5,-50 30,-50 0,-50 -95,-50 -30,-25 -25,-25 -60,-50 -55,-50 -25,-50 -15,-50 -25,-50 0,-50 -15,-50 -10,-50 -5,-50 10,-50 0,-50 10,-50 0,-50 -10,-50 25,-50 -5,-50 20,-50 15,-50 15,-50 30,-50 15,-50 -10,-50 -25,-50 -75,-50 25,-50 60,-50 20,-50 -25,-50 -40,-50 0,-50 z"
+       d="m 210,1000 0,-250 350,250 -20,50 -10,50 -20,50 -80,50 -55,50 -10,50 15,50 -5,50 40,50 30,50 -15,50 -10,50 15,50 25,50 10,50 -100,50 -90,50 -20,50 -20,50 -30,50 0,50 -10,50 -5,50 10,50 5,50 5,50 55,50 20,50 -10,50 50,50 50,50 70,50 70,50 15,50 -10,50 -15,50 90,50 30,50 -20,50 20,50 -30,-50 20,-50 -35,-50 -90,-50 -5,-50 30,-50 0,-50 -95,-50 -30,-25 -25,-25 -60,-50 -55,-50 -25,-50 -15,-50 -25,-50 0,-50 -15,-50 -10,-50 -5,-50 10,-50 0,-50 10,-50 0,-50 -10,-50 25,-50 -5,-50 20,-50 15,-50 15,-50 30,-50 15,-50 -10,-50 -25,-50 -75,-50 25,-50 60,-50 20,-50 -25,-50 -40,-50 0,-50 z"
        id="path4833"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 540,1050 -10,50 -20,50 -80,50 -55,50 -10,50 15,50 -5,50 40,50 30,50 -15,50 -10,50 15,50 25,50 10,50 -95,50 -105,55 -15,45 -20,50 -10,50 0,55 25,-55 45,-50 40,-50 20,-45 115,-55 45,-50 5,-50 0,-50 0,-50 0,-50 0,-50 -20,-50 -30,-50 -10,-50 -10,-50 0,-50 50,-50 50,-50 0,-50 10,-50 0,-50 z"
+       d="m 540,1050 -10,50 -20,50 -80,50 -55,50 -10,50 15,50 -5,50 40,50 30,50 -15,50 -10,50 15,50 25,50 10,50 -100,50 -40,50 -10,50 0,50 20,50 20,50 0,-50 20,-50 20,-50 40,-50 40,-50 30,-50 10,-50 0,-50 0,-50 0,-50 0,-50 -20,-50 -30,-50 -10,-50 -10,-50 0,-50 50,-50 50,-50 0,-50 10,-50 0,-50 z"
        id="path6302"
        inkscape:connector-curvature="0"
        inkscape:label="Hittites"
@@ -1208,19 +1208,19 @@
     </path>
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 590,1000 0,50 0,50 -20,50 -50,50 -70,50 0,30 90,70 0,50 0,50 30,50 10,50 -60,50 30,50 15,50 15,50 30,50 35,50 -40,50 -50,50 -40,50 -55,50 35,50 110,50 30,50 -15,50 -10,50 -45,50 -145,50 -20,50 5,50 20,50 65,50 -50,-50 -15,-50 45,-45 85,-55 65,-50 15,-50 20,-50 25,-50 10,-50 -40,-50 15,-50 -15,-50 -10,-50 15,-50 15,-50 -25,-50 -30,-50 -10,-50 15,-50 -10,-50 -5,-50 25,-50 -20,-50 5,-50 0,-50 -5,-50 -10,-50 30,-50 40,-50 0,-50 -5,-50 35,-50 0,-100 -10,-100 10,-50 -10,-50 -20,-50 -40,-100 0,100 10,50 -20,50 20,50 -30,100 -20,40 z"
+       d="m 590,1000 0,50 0,50 -20,50 -50,50 -70,50 0,30 90,70 0,50 0,50 30,50 10,50 -60,50 30,50 15,50 15,50 30,50 35,50 -40,50 -50,50 -40,50 -55,50 35,50 115,50 30,50 -10,50 -20,50 -50,50 -190,50 10,50 20,50 20,50 70,50 -50,-50 -15,-50 45,-45 85,-55 65,-50 15,-50 20,-50 25,-50 10,-50 -40,-50 15,-50 -15,-50 -10,-50 15,-50 15,-50 -25,-50 -30,-50 -10,-50 15,-50 -10,-50 -5,-50 25,-50 -20,-50 5,-50 0,-50 -5,-50 -10,-50 30,-50 40,-50 0,-50 -5,-50 35,-50 0,-100 -10,-100 10,-50 -10,-50 -20,-50 -40,-100 0,100 10,50 -20,50 20,50 -30,100 -20,40 z"
        id="path6304"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#00ffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 700,1000 -35,50 5,50 0,50 -40,50 -30,50 10,50 5,50 0,50 -5,50 20,50 -25,50 5,50 10,50 -15,50 10,50 30,50 25,50 -15,50 -15,55 10,45 15,50 -15,50 40,50 -10,50 -25,50 -20,50 -15,50 -65,50 -85,55 -45,45 15,50 50,50 90,50 60,50 85,50 -30,50 -55,50 -10,50 -20,50 20,50 -5,50 30,50 -10,50 40,50 20,-50 0,-50 5,-50 20,-50 0,-50 -20,-50 -10,-50 -5,-50 30,-50 20,-50 35,-50 0,-50 -15,-50 -15,-50 0,-55 10,-45 -35,-50 -20,-50 -5,-45 15,-55 0,-45 0,-55 0,-50 -35,-50 -5,-45 10,-55 20,-50 -20,-50 -5,-50 5,-50 20,-50 -10,-50 5,-50 35,-50 -5,-50 10,-50 0,-50 -20,-50 0,-50 25,-50 10,-50 15,-50 -20,-50 -20,-50 0,-50 -10,-50 -10,-50 -10,50 0,50 z"
+       d="m 700,1000 -35,50 5,50 0,50 -40,50 -30,50 10,50 5,50 0,50 -5,50 20,50 -25,50 5,50 10,50 -15,50 10,50 30,50 25,50 -15,50 -15,55 10,45 15,50 -15,50 40,50 -10,50 -25,50 -20,50 -15,50 -65,50 -85,55 -45,45 15,50 50,50 90,50 60,50 80,50 -30,50 -40,50 0,50 -40,50 20,50 -5,50 30,50 -10,50 40,50 20,-50 0,-50 5,-50 20,-50 0,-50 -10,-50 -30,-50 20,-50 10,-50 25,-50 35,-50 0,-50 -15,-50 -15,-50 0,-55 10,-45 -35,-50 -20,-50 -5,-45 15,-55 0,-45 0,-55 0,-50 -35,-50 -5,-45 10,-55 20,-50 -20,-50 -5,-50 5,-50 20,-50 -10,-50 5,-50 35,-50 -5,-50 10,-50 0,-50 -20,-50 0,-50 25,-50 10,-50 15,-50 -20,-50 -20,-50 0,-50 -10,-50 -10,-50 -10,50 0,50 z"
        id="path6306"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff00ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 730,1000 20,50 20,50 -15,50 -10,50 -25,50 0,50 20,50 0,50 -10,50 5,50 -35,50 -5,50 10,50 -20,50 -5,50 5,50 20,50 -20,50 -10,50 5,50 35,50 0,50 0,50 0,50 -15,45 5,55 20,50 35,50 -10,45 0,55 15,50 15,50 0,50 -35,50 -20,50 0,50 0,50 15,50 -10,50 0,50 -20,50 -5,50 0,45 -20,55 -55,50 -65,50 -70,50 -75,50 0,50 235,50 45,50 35,50 -5,50 -15,50 15,50 10,50 10,50 35,50 25,50 15,50 0,50 -15,50 -35,50 -80,50 -120,50 0,50 90,50 -20,50 40,50 100,50 20,50 10,50 20,50 -15,50 5,50 30,50 10,50 -55,50 -10,55 0,45 20,0 5,-45 5,-55 40,-50 -5,-50 -25,-50 -5,-50 25,-50 -25,-50 -10,-50 -30,-50 -95,-50 -25,-50 25,-50 -90,-50 10,-50 105,-50 80,-50 30,-50 0,-50 10,-50 -15,-50 -15,-50 -15,-50 -5,-50 -10,-50 -20,-50 20,-50 15,-50 -80,-50 -35,-50 -215,-50 110,-50 85,-50 55,-50 40,-50 30,-50 15,-50 10,-50 -5,-50 5,-50 -25,-60 -5,-40 -10,-50 -5,-50 10,-50 15,-50 10,-50 -10,-50 -10,-50 5,-50 5,-55 15,-45 -25,-50 -15,-50 5,-50 20,-50 15,-50 -5,-50 -5,-45 0,-55 -5,-50 -15,-50 -5,-50 -15,-50 0,-50 10,-50 25,-50 10,-50 0,-50 10,-50 -25,-50 -5,-50 15,-50 0,-50 -15,-50 0,-50 15,-50 20,-50 -5,-50 -15,-50 -20,-50 0,-200 -10,-150 -10,-100 -10,100 -10,150 0,200 z"
+       d="m 730,1000 20,50 20,50 -15,50 -10,50 -25,50 0,50 20,50 0,50 -10,50 5,50 -35,50 -5,50 10,50 -20,50 -5,50 5,50 20,50 -20,50 -10,50 5,50 35,50 0,50 0,50 0,50 -15,45 5,55 20,50 35,50 -10,45 0,55 15,50 15,50 0,50 -35,50 -25,50 0,50 0,50 0,50 10,50 0,50 -20,50 -5,50 0,45 -20,55 -55,50 -65,50 -70,50 -75,50 0,50 235,50 45,50 35,50 -5,50 -15,50 15,50 10,50 10,50 35,50 25,50 15,50 0,50 -15,50 -35,50 -80,50 -120,50 0,50 90,50 -20,50 40,50 100,50 20,50 10,50 20,50 -15,50 5,50 30,50 10,50 -55,50 -10,55 0,45 20,0 5,-45 5,-55 40,-50 -5,-50 -25,-50 -5,-50 25,-50 -25,-50 -10,-50 -30,-50 -95,-50 -25,-50 25,-50 -90,-50 10,-50 105,-50 80,-50 30,-50 0,-50 10,-50 -15,-50 -15,-50 -15,-50 -5,-50 -10,-50 -20,-50 20,-50 15,-50 -80,-50 -35,-50 -215,-50 110,-50 85,-50 55,-50 40,-50 30,-50 15,-50 10,-50 -5,-50 5,-50 -25,-60 -5,-40 -10,-50 -5,-50 10,-50 15,-50 10,-50 -10,-50 -10,-50 5,-50 5,-55 15,-45 -25,-50 -15,-50 5,-50 20,-50 15,-50 -5,-50 -5,-45 0,-55 -5,-50 -15,-50 -5,-50 -15,-50 0,-50 10,-50 25,-50 10,-50 0,-50 10,-50 -25,-50 -5,-50 15,-50 0,-50 -15,-50 0,-50 15,-50 20,-50 -5,-50 -15,-50 -20,-50 0,-200 -10,-150 -10,-100 -10,100 -10,150 0,200 z"
        id="path6308"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -1242,10 +1242,10 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#00ffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 590,940 -30,30 0,30 0,50 -10,50 0,50 -50,50 -50,50 0,50 10,50 10,50 30,50 20,50 0,50 0,50 20,50 10,50 -10,50 -10,50 -90,55 -45,45 -10,50 -20,50 0,50 5,50 -5,50 -20,50 -35,45 -5,55 60,50 10,50 0,50 30,50 -5,-50 20,-50 145,-50 45,-50 10,-50 15,-50 -30,-50 -110,-50 -35,-50 55,-50 40,-50 50,-50 40,-50 -35,-50 -30,-50 -15,-50 -15,-50 -30,-50 60,-50 -10,-50 -30,-50 0,-50 0,-50 -90,-70 0,-30 70,-50 50,-50 20,-50 0,-50 0,-50 0,-30 z"
+       d="m 590,940 -30,30 0,30 0,50 -10,50 0,50 -50,50 -50,50 0,50 10,50 10,50 30,50 20,50 0,50 0,50 0,50 0,50 -10,50 -30,50 -40,50 -40,50 -20,50 -20,50 0,50 10,50 0,50 -10,50 -20,50 0,50 20,50 10,50 160,-50 50,-50 20,-50 20,-50 -10,-50 -115,-50 -35,-50 55,-50 40,-50 50,-50 40,-50 -35,-50 -30,-50 -15,-50 -15,-50 -30,-50 60,-50 -10,-50 -30,-50 0,-50 0,-50 -90,-70 0,-30 70,-50 50,-50 20,-50 0,-50 0,-50 0,-30 z"
        id="path3131"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 100,2250 10,50 5,50 5,50 10,50 5,50 10,50 15,50 15,50 25,50 85,50 105,50 150,50 55,50 5,50 20,-50 -35,-50 -90,-50 -5,-50 30,-50 0,-50 -95,-50 -55,-50 -60,-50 -55,-50 -25,-50 -15,-50 -25,-50 0,-55 -15,-45 -10,-50 -5,-50 10,-50 0,-45 10,-50 0,-55 -20,-100 -15,-50 -10,-50 -5,-50 0,-50 -30,-50 z"
@@ -1254,34 +1254,34 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 235,1950 -30,50 5,50 -10,50 -5,50 10,50 5,45 5,55 55,50 20,50 -5,-50 -45,-50 10,-55 -5,-45 -10,-50 -10,-50 0,-50 0,-50 z"
+       d="m 240,1950 -30,50 0,50 -10,50 -5,50 10,50 5,45 5,55 55,50 20,50 -10,-50 -40,-50 10,-55 -5,-45 -10,-50 -10,-50 0,-50 5,-50 z"
        id="path3903"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 520,1600 0,50 0,50 -5,50 -45,50 -115,55 -20,45 -40,50 -45,50 -25,50 0,50 10,50 10,50 5,45 -10,55 70,50 40,50 5,50 5,50 20,50 70,50 70,50 15,50 -10,50 -15,50 90,50 30,-50 15,-50 -5,-50 -60,-50 -90,-50 -65,-50 -20,-50 -30,-50 0,-50 -20,-50 -60,-50 -20,-55 -5,-45 20,-50 15,-50 15,-50 -15,-50 35,-50 25,-50 25,-45 110,-55 35,-50 15,-50 -10,-50 z"
+       d="m 280,1850 -20,50 -20,50 -10,50 -5,50 0,50 10,50 10,50 5,50 -10,50 40,50 10,50 -10,50 50,50 50,50 70,50 70,50 15,50 -10,50 -15,50 90,50 30,-50 15,-50 -5,-50 -60,-50 -90,-50 -70,-50 -50,-50 -70,-50 10,-50 10,-50 -25,-50 -15,-50 -10,-50 0,-50 0,-50 10,-50 -10,-50 0,-50 10,-50 20,-50 70,-50 z"
        id="path3905"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 550,1700 -10,50 -10,50 -90,55 -45,45 -10,50 -20,50 0,50 5,50 -5,50 -20,50 -35,50 -5,50 60,50 10,50 0,50 30,50 -30,-50 0,-50 -20,-50 -60,-50 5,-50 35,-50 20,-50 -15,-50 -5,-50 -30,-50 35,-50 25,-50 25,-45 110,-55 35,-50 z"
+       d="m 310,2000 10,50 -10,50 0,50 -10,50 0,50 10,50 20,50 -20,50 10,-50 -25,-50 -15,-50 -10,-50 0,-50 0,-50 10,-50 -10,-50 0,-50 z"
        id="path3907"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 305,2000 15,50 -15,50 -15,50 -20,50 5,50 20,50 5,-50 35,-50 20,-50 -15,-50 -5,-50 z"
+       d="m 370,2100 -30,50 -10,50 0,50 10,50 0,-50 20,-50 10,-50 z"
        id="path3909"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccc" />
     <path
-       style="fill:#00ffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 240,2300 45,50 5,50 -15,50 55,50 50,50 -20,-50 -5,-50 -5,-50 -40,-50 z"
+       style="fill:#0000ff;fill-opacity:0.39215687;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 370,1800 -50,50 -10,50 0,50 20,50 20,50 10,50 -30,50 -10,50 0,50 -10,50 20,50 -20,50 -10,50 70,50 50,50 -20,-50 -20,-50 -10,-50 -10,-50 -20,-50 -10,-50 0,-50 10,-50 30,-50 -10,-50 -20,-50 -20,-50 0,-50 10,-50 z"
        id="path3980"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:none"
        d="m 870,5000 30,0 0,-340 -5,40 0,50 0,50 -10,50 -25,50 -5,50 z"
@@ -1290,15 +1290,16 @@
        sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 640,2700 5,50 -15,50 -30,50 30,50 10,-50 55,-50 30,-50 z"
+       d="m 640,2700 5,50 -15,50 -30,50 30,50 -20,50 40,-50 0,-50 40,-50 30,-50 z"
        id="path3988"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:nodetypes="ccccccccccc" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 725,2750 -30,50 5,50 10,50 20,50 10,-50 -15,-50 z"
+       d="m 720,2750 -10,50 -20,50 30,50 0,-50 0,-50 z"
        id="path3990"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 30,50 -30,50 -45,50 70,0 -15,50 10,50 0,50 15,50 30,50 45,50 35,50 30,50 -20,50 -25,50 10,50 55,50 85,50 10,50 20,50 -30,50 -80,50 -55,50 15,50 -20,50 50,50 15,50 0,-50 -40,-50 25,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -55,-50 -50,-50 -10,-50 60,-50 80,-50 45,-50 65,-50 50,-50 10,-50 -30,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -10,-50 z"
@@ -1989,7 +1990,7 @@
     <a
        id="a3398"
        xlink:href="http://en.wikipedia.org/wiki/Syro-Hittite"
-       transform="matrix(0,1,-1,0,2121,1449)">
+       transform="matrix(0,1,-1,0,2191,1449)">
       <text
          sodipodi:linespacing="125%"
          id="text3394"
@@ -2015,18 +2016,23 @@
          id="tspan3415"
          x="860"
          y="-706">Proto Elamite</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="680"
-       y="1050"
-       id="text3417"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3419"
-         x="680"
-         y="1050"
-         style="font-size:20px">Elam</tspan></text>
+    <a
+       id="a3457"
+       xlink:href="https://en.wikipedia.org/wiki/Elam#Old_Elamite_Period">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3417"
+         y="-700"
+         x="930"
+         style="font-size:52px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:52px"
+           y="-700"
+           x="930"
+           id="tspan3419"
+           sodipodi:role="line">Old Elamite Period</tspan></text>
+    </a>
     <a
        id="a3348"
        xlink:href="http://en.wikipedia.org/wiki/Second_Intermediate_Period_of_Egypt">
@@ -2453,7 +2459,7 @@
     <a
        id="a3431"
        xlink:href="https://en.wikipedia.org/wiki/Babylonian_Empire"
-       transform="translate(30,-30)">
+       transform="translate(0,920)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -2509,7 +2515,8 @@
          y="-530">Old Assyrian Kingdom</tspan></text>
     <a
        id="a3461"
-       xlink:href="https://en.wikipedia.org/wiki/Assyria#Middle_Assyrian_Empire_1392-1056_BC">
+       xlink:href="https://en.wikipedia.org/wiki/Assyria#Middle_Assyrian_Empire_1392-1056_BC"
+       transform="translate(-10,0)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -2559,6 +2566,283 @@
            y="-475"
            x="2320"
            sodipodi:role="line">Empire</tspan></text>
+    </a>
+    <a
+       id="a3462"
+       xlink:href="https://en.wikipedia.org/wiki/Elam#Middle_Elamite_Period">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3453"
+         y="-660"
+         x="1470"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-660"
+           x="1470"
+           id="tspan3455"
+           sodipodi:role="line">Middle Elamite Period</tspan></text>
+    </a>
+    <a
+       id="a3470"
+       xlink:href="https://en.wikipedia.org/wiki/Elam#Neo-Elamite_Period">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3466"
+         y="-660"
+         x="1920"
+         style="font-size:54px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-660"
+           x="1920"
+           id="tspan3468"
+           sodipodi:role="line">Neo-Elamite Period</tspan></text>
+    </a>
+    <a
+       id="a3478"
+       xlink:href="https://en.wikipedia.org/wiki/Parthian_empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3474"
+         y="-660"
+         x="2840"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-660"
+           x="2840"
+           id="tspan3476"
+           sodipodi:role="line">Parthian Empire</tspan></text>
+    </a>
+    <a
+       id="a3486"
+       xlink:href="https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3482"
+         y="-710"
+         x="2770"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-710"
+           x="2770"
+           id="tspan3484"
+           sodipodi:role="line">Greco-Bactrian Kingdom</tspan></text>
+    </a>
+    <a
+       id="a3494"
+       xlink:href="https://en.wikipedia.org/wiki/Seleucid_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3490"
+         y="-640"
+         x="2730"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-640"
+           x="2730"
+           id="tspan3492"
+           sodipodi:role="line">Seleucid Empire</tspan></text>
+    </a>
+    <a
+       id="a3502"
+       xlink:href="https://en.wikipedia.org/wiki/Phoenicia"
+       transform="translate(-10,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3498"
+         y="-250"
+         x="2000"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-250"
+           x="2000"
+           id="tspan3500"
+           sodipodi:role="line">Phoenicia</tspan></text>
+    </a>
+    <a
+       id="a3510"
+       xlink:href="https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)"
+       transform="translate(-70,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3506"
+         y="-370"
+         x="2080"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-370"
+           x="2080"
+           sodipodi:role="line"
+           id="tspan3527">Kingdom of Israel (Samaria)</tspan></text>
+    </a>
+    <a
+       id="a3522"
+       xlink:href="https://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy)"
+       transform="translate(-50,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3516"
+         y="-340"
+         x="1970"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-340"
+           x="1970"
+           id="tspan3518"
+           sodipodi:role="line">Kingdom of Israel </tspan><tspan
+           id="tspan3520"
+           y="-325"
+           x="1970"
+           sodipodi:role="line">(united monarchy)</tspan></text>
+    </a>
+    <a
+       id="a3533"
+       xlink:href="https://en.wikipedia.org/wiki/Aram_Damascus">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3529"
+         y="-340"
+         x="2140"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-340"
+           x="2140"
+           id="tspan3531"
+           sodipodi:role="line">Aram-Damascus</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2070"
+       y="-280"
+       id="text3537"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3539"
+         x="2070"
+         y="-280">Kingdom of Judah</tspan></text>
+    <a
+       id="a3547"
+       xlink:href="https://en.wikipedia.org/wiki/Ancient_Carthage">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3543"
+         y="-570"
+         x="2650"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-570"
+           x="2650"
+           id="tspan3545"
+           sodipodi:role="line">Carthage</tspan></text>
+    </a>
+    <path
+       style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 370,1800 -50,50 -10,50 0,50 20,50 20,50 10,50 -30,50 -10,50 0,50 -10,50 -10,-50 0,-50 10,-50 0,-50 10,-50 -10,-50 -40,-50 10,-50 20,-50 z"
+       id="path3555"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <a
+       id="a3563"
+       xlink:href="http://en.wikipedia.org/wiki/Median_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3557"
+         y="-680"
+         x="2320"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-680"
+           x="2320"
+           id="tspan3559"
+           sodipodi:role="line">Median </tspan><tspan
+           id="tspan3561"
+           y="-635"
+           x="2320"
+           sodipodi:role="line">Empire</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2450"
+       y="-700"
+       id="text3568"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3570"
+         x="2450"
+         y="-700">Achaemenid Empire</tspan><tspan
+         sodipodi:role="line"
+         x="2450"
+         y="-662.5"
+         id="tspan3572">(1st Persian Empire)</tspan></text>
+    <a
+       id="a4346"
+       xlink:href="http://en.wikipedia.org/wiki/Phrygia"
+       transform="translate(10,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4342"
+         y="-310"
+         x="2030"
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-310"
+           x="2030"
+           id="tspan4344"
+           sodipodi:role="line">Phrygia</tspan></text>
+    </a>
+    <a
+       id="a4354"
+       xlink:href="http://en.wikipedia.org/wiki/Lydia">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4350"
+         y="-330"
+         x="2350"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-330"
+           x="2350"
+           id="tspan4352"
+           sodipodi:role="line">Lydia</tspan></text>
+    </a>
+    <path
+       style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 610,2150 10,50 -20,50 -20,50 -50,50 -160,50 190,-50 50,-50 20,-50 10,-50 z"
+       id="path3909-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <a
+       id="a4380"
+       xlink:href="http://en.wikipedia.org/wiki/Urartu">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4376"
+         y="-610"
+         x="2210"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="-610"
+           x="2210"
+           id="tspan4378"
+           sodipodi:role="line">Urartu</tspan></text>
     </a>
   </g>
 </svg>
