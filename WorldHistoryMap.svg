@@ -75,16 +75,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="372.55281"
-     inkscape:cy="2701.1176"
+     inkscape:cx="383.5625"
+     inkscape:cy="1106.9727"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="960"
-     inkscape:window-height="1058"
-     inkscape:window-x="2343"
+     inkscape:window-width="1381"
+     inkscape:window-height="856"
+     inkscape:window-x="59"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -245,7 +245,7 @@
        id="guide3202" />
     <sodipodi:guide
        orientation="0,1"
-       position="-280,1400"
+       position="180,1400"
        id="guide3204" />
     <sodipodi:guide
        orientation="0,1"
@@ -339,6 +339,10 @@
        orientation="0,1"
        position="20,3150"
        id="guide3514" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-70,1050"
+       id="guide3621" />
   </sodipodi:namedview>
   <metadata
      id="metadata3069">
@@ -1302,13 +1306,13 @@
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 30,50 -30,50 -45,50 70,0 -15,50 10,50 0,50 15,50 30,50 45,50 35,50 30,50 -20,50 -25,50 10,50 55,50 85,50 10,50 20,50 -30,50 -80,50 -55,50 15,50 -20,50 50,50 15,50 0,-50 -40,-50 25,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -55,-50 -50,-50 -10,-50 60,-50 80,-50 45,-50 65,-50 50,-50 10,-50 -30,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -10,-50 z"
+       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 10,50 -10,50 -40,50 0,50 60,30 0,-30 10,-50 60,-70 -60,70 -10,50 0,50 0,50 15,50 30,50 45,50 35,50 30,50 -20,50 -25,50 10,50 55,50 85,50 10,50 20,50 -30,50 -80,50 -55,50 15,50 -20,50 50,50 -25,-50 25,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -55,-50 -50,-50 -10,-50 60,-50 80,-50 45,-50 65,-50 50,-50 10,-50 -30,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -10,-50 z"
        id="path3992"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,50 15,50 15,50 35,50 45,50 30,50 -30,50 -45,50 5,50 60,50 0,50 -15,50 20,50 35,50 85,50 -155,-50 -30,-50 -15,-50 -20,-50 -30,-50 0,-50 -10,-50 -15,-50 -20,-50 -10,-50 z"
+       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,50 15,50 15,50 35,50 45,50 10,50 -10,50 -40,50 0,50 60,30 0,70 -15,50 20,50 35,50 85,50 -155,-50 -30,-50 -15,-50 -20,-50 -30,-50 0,-50 -10,-50 -15,-50 -20,-50 -10,-50 z"
        id="path3994"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
@@ -1339,11 +1343,6 @@
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 100,3250 0,200 10,50 10,50 10,50 0,50 20,50 5,50 20,50 20,50 155,0 35,-50 20,-50 -155,-50 -30,-50 -15,-50 -20,-50 -30,-50 0,-50 -10,-50 -15,-50 -20,-50 z"
        id="path4006"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 215,3400 70,0 -15,50 10,50 -60,-50 z"
-       id="path4008"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2250,21 +2249,49 @@
            id="tspan3400"
            sodipodi:role="line">Ptolemaic Egypt</tspan></text>
     </a>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2260"
+       y="-100"
+       id="text3406"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3408"
+         x="2260"
+         y="-100">Founding of Rome</tspan></text>
     <a
-       id="a3410"
-       xlink:href="http://en.wikipedia.org/wiki/Founding_of_Rome">
+       id="a3633"
+       xlink:href="https://en.wikipedia.org/wiki/Roman_Republic">
       <text
-         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="2510"
+         y="-130"
+         id="text3519"
          sodipodi:linespacing="125%"
-         id="text3406"
-         y="-100"
-         x="2290"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="-100"
-           x="2290"
-           id="tspan3408"
-           sodipodi:role="line">Founding of Rome</tspan></text>
+         transform="matrix(0,1,-1,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3521"
+           x="2510"
+           y="-130">Roman Republic</tspan></text>
+    </a>
+    <a
+       id="a3629"
+       xlink:href="https://en.wikipedia.org/wiki/Roman_Empire">
+      <text
+         xml:space="preserve"
+         style="font-size:42px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="3030"
+         y="-300"
+         id="text3523"
+         sodipodi:linespacing="125%"
+         transform="matrix(0,1,-1,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3525"
+           x="3030"
+           y="-300">Roman Empire</tspan></text>
     </a>
     <a
        id="a3418"
@@ -2843,6 +2870,216 @@
            x="2210"
            id="tspan4378"
            sodipodi:role="line">Urartu</tspan></text>
+    </a>
+    <a
+       id="a3507"
+       xlink:href="https://en.wikipedia.org/wiki/Sassanid_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3503"
+         y="-510"
+         x="3240"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-510"
+           x="3240"
+           id="tspan3505"
+           sodipodi:role="line">Sasanian Empire</tspan></text>
+    </a>
+    <a
+       id="a3515"
+       xlink:href="https://en.wikipedia.org/wiki/Roman_Kingdom"
+       transform="translate(0,-10)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3511"
+         y="-100"
+         x="2350"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-100"
+           x="2350"
+           id="tspan3513"
+           sodipodi:role="line">Roman Kingdom</tspan></text>
+    </a>
+    <a
+       id="a3538"
+       xlink:href="https://en.wikipedia.org/wiki/Western_Roman_Empire"
+       transform="translate(0,-30)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3527"
+         y="-270"
+         x="3320"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3536"
+           y="-270"
+           x="3320"
+           sodipodi:role="line">Western Roman Empire</tspan></text>
+    </a>
+    <a
+       id="a3581"
+       xlink:href="https://en.wikipedia.org/wiki/Byzantine_Empire">
+      <text
+         transform="matrix(0.25881905,0.96592583,-0.96592583,0.25881905,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3545"
+         y="567.60681"
+         x="3316.0854"
+         style="font-size:100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="567.60681"
+           x="3316.0854"
+           id="tspan3547"
+           sodipodi:role="line">Byzantine Empire</tspan></text>
+    </a>
+    <a
+       xlink:href="https://en.wikipedia.org/wiki/Kingdom_of_the_Lombards"
+       id="a3557">
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="3235.3708"
+         y="1556.1731"
+         id="text3553"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3555"
+           x="3235.3708"
+           y="1556.1731">Kingdom of the Lombards</tspan></text>
+    </a>
+    <a
+       xlink:href="https://en.wikipedia.org/wiki/Francia"
+       id="a3569"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,-899.7128,247.11458)">
+      <text
+         xml:space="preserve"
+         style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="3470"
+         y="-140"
+         id="text3561"
+         sodipodi:linespacing="125%"
+         transform="matrix(0,1,-1,0,0,0)"><tspan
+           sodipodi:role="line"
+           x="3470"
+           y="-140"
+           id="tspan3565">Francia</tspan></text>
+    </a>
+    <a
+       id="a3589"
+       xlink:href="https://en.wikipedia.org/wiki/Visigothic_Kingdom">
+      <text
+         transform="matrix(0.25881905,0.96592583,-0.96592583,0.25881905,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3585"
+         y="713.88269"
+         x="3359.7129"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="713.88269"
+           x="3359.7129"
+           id="tspan3587"
+           sodipodi:role="line">Visigothic Kingdom</tspan></text>
+    </a>
+    <a
+       id="a3597"
+       xlink:href="https://en.wikipedia.org/wiki/West_Francia">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3593"
+         y="-210"
+         x="3850"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-210"
+           x="3850"
+           id="tspan3595"
+           sodipodi:role="line">West Francia</tspan></text>
+    </a>
+    <a
+       id="a3605"
+       xlink:href="https://en.wikipedia.org/wiki/Middle_Francia">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3601"
+         y="-280"
+         x="3850"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-280"
+           x="3850"
+           id="tspan3603"
+           sodipodi:role="line">Middle Francia</tspan></text>
+    </a>
+    <a
+       id="a3613"
+       xlink:href="https://en.wikipedia.org/wiki/East_Francia">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3609"
+         y="-330"
+         x="3850"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-330"
+           x="3850"
+           id="tspan3611"
+           sodipodi:role="line">East Francia</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3960"
+       y="-290"
+       id="text3617"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3619"
+         x="3960"
+         y="-290">Holy Roman Empire</tspan></text>
+    <a
+       id="a3641"
+       xlink:href="https://en.wikipedia.org/wiki/Palaiologoi">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3637"
+         y="-420"
+         x="4260"
+         style="font-size:26px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-420"
+           x="4260"
+           id="tspan3639"
+           sodipodi:role="line">Palaiologos</tspan></text>
+    </a>
+    <a
+       id="a3655"
+       xlink:href="https://en.wikipedia.org/wiki/Carolingian_Empire">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3645"
+         y="3820"
+         x="200"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3649"
+           y="3820"
+           x="200"
+           sodipodi:role="line">Carolingian </tspan><tspan
+           id="tspan3653"
+           y="3857.5"
+           x="200"
+           sodipodi:role="line">Empire</tspan></text>
     </a>
   </g>
 </svg>
