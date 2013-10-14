@@ -75,16 +75,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="383.5625"
-     inkscape:cy="1106.9727"
+     inkscape:cx="55.621907"
+     inkscape:cy="1364.5562"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1381"
+     inkscape:window-width="1379"
      inkscape:window-height="856"
-     inkscape:window-x="59"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-x="61"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -225,7 +225,7 @@
        id="guide3192" />
     <sodipodi:guide
        orientation="0,1"
-       position="-220,1900"
+       position="760,1900"
        id="guide3194" />
     <sodipodi:guide
        orientation="0,1"
@@ -237,7 +237,7 @@
        id="guide3198" />
     <sodipodi:guide
        orientation="0,1"
-       position="-220,1600"
+       position="550,1600"
        id="guide3200" />
     <sodipodi:guide
        orientation="0,1"
@@ -343,6 +343,38 @@
        orientation="0,1"
        position="-70,1050"
        id="guide3621" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="50,2160"
+       id="guide3614" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="30,1850"
+       id="guide3616" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="60,1750"
+       id="guide3618" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="640,1550"
+       id="guide3620" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="250,1150"
+       id="guide4425" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="90,1450"
+       id="guide4431" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="240,1650"
+       id="guide4437" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="80,1350"
+       id="guide4473" />
   </sodipodi:namedview>
   <metadata
      id="metadata3069">
@@ -444,7 +476,7 @@
          y="-2947.6377">B. C. 2000</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="52.362202"
        id="text4528"
@@ -455,7 +487,7 @@
          y="52.362202">A. D. 1000</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="1052.3622"
        id="text4532"
@@ -512,7 +544,7 @@
          y="-1447.6378">B. C. 500</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-447.63779"
        id="text4598"
@@ -523,7 +555,7 @@
          y="-447.63779">A. D. 500</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="552.36218"
        id="text4602"
@@ -910,7 +942,7 @@
          y="-847.63782">100</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-747.63782"
        id="text4773"
@@ -921,7 +953,7 @@
          y="-747.63782">200</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-647.63782"
        id="text4777"
@@ -932,7 +964,7 @@
          y="-647.63782">300</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-547.63782"
        id="text4781"
@@ -943,7 +975,7 @@
          y="-547.63782">400</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-347.63779"
        id="text4785"
@@ -954,7 +986,7 @@
          y="-347.63779">600</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-247.6378"
        id="text4789"
@@ -965,7 +997,7 @@
          y="-247.6378">700</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-147.6378"
        id="text4793"
@@ -976,7 +1008,7 @@
          y="-147.6378">800</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="-47.637798"
        id="text4797"
@@ -987,7 +1019,7 @@
          y="-47.637798">900</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="152.3622"
        id="text4801"
@@ -998,7 +1030,7 @@
          y="152.3622">1100</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="252.3622"
        id="text4805"
@@ -1009,7 +1041,7 @@
          y="252.3622">1200</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="352.36221"
        id="text4809"
@@ -1020,7 +1052,7 @@
          y="352.36221">1300</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="452.36221"
        id="text4813"
@@ -1031,7 +1063,7 @@
          y="452.36221">1400</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="652.36218"
        id="text4817"
@@ -1042,7 +1074,7 @@
          y="652.36218">1600</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="752.36218"
        id="text4821"
@@ -1053,7 +1085,7 @@
          y="752.36218">1700</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="852.36218"
        id="text4825"
@@ -1064,7 +1096,7 @@
          y="852.36218">1800</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="0"
        y="952.36218"
        id="text4829"
@@ -1189,6 +1221,18 @@
      inkscape:label="Civilizations"
      style="display:inline">
     <path
+       style="fill:#00fdff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 640,3400 30,50 -10,50 0,50 20,50 40,50 -130,-50 -40,-50 0,-50 70,-50 z"
+       id="path4447"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 640,3150 -40,50 -70,50 -40,50 -80,50 -60,50 10,50 50,50 110,-50 0,-50 30,-50 10,-50 -10,-50 60,-50 z"
+       id="path3631"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 260,1250 -60,50 -25,50 75,50 25,50 10,50 -15,50 -30,50 -15,50 -15,50 -20,50 5,50 -25,50 -10,-50 -15,-50 -10,-50 -5,-50 0,-50 -30,-50 0,-550 0,-160 110,160 5,50 0,50 40,50 25,50 z"
        id="path4659"
@@ -1218,19 +1262,19 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#00ffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 700,1000 -35,50 5,50 0,50 -40,50 -30,50 10,50 5,50 0,50 -5,50 20,50 -25,50 5,50 10,50 -15,50 10,50 30,50 25,50 -15,50 -15,55 10,45 15,50 -15,50 40,50 -10,50 -25,50 -20,50 -15,50 -65,50 -85,55 -45,45 15,50 50,50 90,50 60,50 80,50 -30,50 -40,50 0,50 -40,50 20,50 -5,50 30,50 -10,50 40,50 20,-50 0,-50 5,-50 20,-50 0,-50 -10,-50 -30,-50 20,-50 10,-50 25,-50 35,-50 0,-50 -15,-50 -15,-50 0,-55 10,-45 -35,-50 -20,-50 -5,-45 15,-55 0,-45 0,-55 0,-50 -35,-50 -5,-45 10,-55 20,-50 -20,-50 -5,-50 5,-50 20,-50 -10,-50 5,-50 35,-50 -5,-50 10,-50 0,-50 -20,-50 0,-50 25,-50 10,-50 15,-50 -20,-50 -20,-50 0,-50 -10,-50 -10,-50 -10,50 0,50 z"
+       d="m 700,1000 -35,50 5,50 0,50 -40,50 -30,50 10,50 5,50 0,50 -5,50 20,50 -25,50 5,50 10,50 -15,50 10,50 30,50 25,50 -15,50 -15,55 10,45 15,50 -15,50 40,50 -10,50 -25,50 -20,50 -15,50 -65,50 -85,55 -45,45 15,50 50,50 90,50 60,50 80,50 -30,50 -40,50 0,50 -40,50 20,50 -5,50 25,50 -10,50 60,50 0,-50 0,-50 10,-50 20,-50 0,-50 -10,-50 -30,-50 20,-50 10,-50 25,-50 35,-50 0,-50 -15,-50 -15,-50 0,-55 10,-45 -35,-50 -20,-50 -5,-45 15,-55 0,-45 0,-55 0,-50 -35,-50 -5,-45 10,-55 20,-50 -20,-50 -5,-50 5,-50 20,-50 -10,-50 5,-50 35,-50 -5,-50 10,-50 0,-50 -20,-50 0,-50 25,-50 10,-50 15,-50 -20,-50 -20,-50 0,-50 -10,-50 -10,-50 -10,50 0,50 z"
        id="path6306"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff00ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 730,1000 20,50 20,50 -15,50 -10,50 -25,50 0,50 20,50 0,50 -10,50 5,50 -35,50 -5,50 10,50 -20,50 -5,50 5,50 20,50 -20,50 -10,50 5,50 35,50 0,50 0,50 0,50 -15,45 5,55 20,50 35,50 -10,45 0,55 15,50 15,50 0,50 -35,50 -25,50 0,50 0,50 0,50 10,50 0,50 -20,50 -5,50 0,45 -20,55 -55,50 -65,50 -70,50 -75,50 0,50 235,50 45,50 35,50 -5,50 -15,50 15,50 10,50 10,50 35,50 25,50 15,50 0,50 -15,50 -35,50 -80,50 -120,50 0,50 90,50 -20,50 40,50 100,50 20,50 10,50 20,50 -15,50 5,50 30,50 10,50 -55,50 -10,55 0,45 20,0 5,-45 5,-55 40,-50 -5,-50 -25,-50 -5,-50 25,-50 -25,-50 -10,-50 -30,-50 -95,-50 -25,-50 25,-50 -90,-50 10,-50 105,-50 80,-50 30,-50 0,-50 10,-50 -15,-50 -15,-50 -15,-50 -5,-50 -10,-50 -20,-50 20,-50 15,-50 -80,-50 -35,-50 -215,-50 110,-50 85,-50 55,-50 40,-50 30,-50 15,-50 10,-50 -5,-50 5,-50 -25,-60 -5,-40 -10,-50 -5,-50 10,-50 15,-50 10,-50 -10,-50 -10,-50 5,-50 5,-55 15,-45 -25,-50 -15,-50 5,-50 20,-50 15,-50 -5,-50 -5,-45 0,-55 -5,-50 -15,-50 -5,-50 -15,-50 0,-50 10,-50 25,-50 10,-50 0,-50 10,-50 -25,-50 -5,-50 15,-50 0,-50 -15,-50 0,-50 15,-50 20,-50 -5,-50 -15,-50 -20,-50 0,-200 -10,-150 -10,-100 -10,100 -10,150 0,200 z"
+       d="m 730,1000 20,50 20,50 -15,50 -10,50 -25,50 0,50 20,50 0,50 -10,50 5,50 -35,50 -5,50 10,50 -20,50 -5,50 5,50 20,50 -20,50 -10,50 5,50 35,50 0,50 0,50 0,50 -15,45 5,55 20,50 35,50 -10,45 0,55 15,50 15,50 0,50 -35,50 -25,50 0,50 0,50 0,50 10,50 0,50 -20,50 -10,50 0,50 0,50 -40,50 -20,50 0,50 0,50 30,50 -10,50 0,50 20,50 40,50 -5,50 15,50 10,50 10,50 35,50 25,50 15,50 0,50 -15,50 -35,50 -80,50 -120,50 0,50 90,50 -20,50 40,50 100,50 20,50 10,50 20,50 -15,50 5,50 30,50 10,50 -55,50 -10,55 0,45 20,0 5,-45 5,-55 40,-50 -5,-50 -25,-50 -5,-50 25,-50 -25,-50 -10,-50 -30,-50 -95,-50 -25,-50 25,-50 -90,-50 10,-50 105,-50 80,-50 30,-50 0,-50 15,-50 -20,-50 -20,-50 -10,-50 -20,-50 -10,-50 -10,-50 20,-50 10,-50 0,-40 0,-60 0,-50 0,-50 0,-50 -30,-50 20,-50 10,-50 10,-50 0,-50 -10,-50 0,-50 0,-60 -5,-40 -10,-50 -5,-50 10,-50 15,-50 10,-50 -10,-50 -10,-50 5,-50 5,-55 15,-45 -25,-50 -15,-50 5,-50 20,-50 15,-50 -5,-50 -5,-45 0,-55 -5,-50 -15,-50 -5,-50 -15,-50 0,-50 10,-50 25,-50 10,-50 0,-50 10,-50 -25,-50 -5,-50 15,-50 0,-50 -15,-50 0,-50 15,-50 20,-50 -5,-50 -15,-50 -20,-50 0,-200 -10,-150 -10,-100 -10,100 -10,150 0,200 z"
        id="path6308"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 900,1000 0,3650 -5,50 0,55 0,45 -10,50 -25,50 -5,55 15,45 -45,0 0,-45 5,-55 40,-50 0,-50 -20,-50 15,-50 25,-50 5,-50 0,-50 -30,-50 -35,-50 10,-50 50,-50 10,-50 0,-50 -15,-50 -15,-50 -15,-50 -10,-50 0,-50 -15,-50 -15,-50 -15,-50 -5,-50 -10,-50 -20,-50 30,-50 40,-50 20,-50 0,-50 0,-50 -5,-50 -25,-50 -35,-50 15,-50 15,-50 10,-50 0,-50 -10,-50 10,-50 0,-50 -30,-50 -10,-50 0,-50 10,-50 30,-50 5,-50 -20,-50 -5,-60 5,-40 -5,-45 5,-55 -10,-50 -10,-50 5,-55 25,-45 10,-50 -5,-50 0,-50 0,-50 0,-50 -15,-50 -15,-50 -20,-50 15,-50 20,-50 15,-50 15,-50 25,-50 10,-50 -15,-50 5,-50 -10,-55 -10,-45 -10,-50 -5,-50 10,-50 10,-50 -5,-50 -10,-50 60,-300 z"
+       d="m 900,1000 0,3650 -5,50 0,55 0,45 -10,50 -25,50 -5,55 15,45 -45,0 0,-45 5,-55 40,-50 0,-50 -20,-50 15,-50 25,-50 5,-50 0,-50 -30,-50 -35,-50 10,-50 50,-50 10,-50 0,-50 -15,-50 -15,-50 -15,-50 -10,-50 5,-50 -10,-50 -20,-50 -10,-50 0,-50 -10,-50 -20,-50 20,-50 35,-50 20,-50 0,-50 0,-50 -5,-50 -25,-50 -35,-50 15,-50 15,-50 10,-50 0,-50 -10,-50 10,-50 0,-50 -30,-50 -10,-50 0,-50 10,-50 30,-50 5,-50 -20,-50 -5,-60 5,-40 -5,-45 5,-55 -10,-50 -10,-50 5,-55 25,-45 10,-50 -5,-50 0,-50 0,-50 0,-50 -15,-50 -15,-50 -20,-50 15,-50 20,-50 15,-50 15,-50 25,-50 10,-50 -15,-50 5,-50 -10,-55 -10,-45 -10,-50 -5,-50 10,-50 10,-50 -5,-50 -10,-50 60,-300 z"
        id="civilization"
        inkscape:connector-curvature="0"
        inkscape:label="China"
@@ -1240,7 +1284,7 @@
     </path>
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 800,1000 0,-150 40,150 10,50 5,50 -10,50 -10,50 5,50 10,50 10,50 10,50 -5,50 15,50 -10,50 -25,50 -15,50 -15,50 -20,50 -15,50 20,50 15,50 15,50 0,50 0,55 0,45 5,50 -10,50 -25,45 -5,55 10,50 10,50 -5,45 5,55 -5,50 5,50 20,50 -5,50 -30,50 -10,50 0,50 10,50 30,50 0,50 -10,50 10,50 0,50 -10,50 -15,50 -15,50 35,50 25,50 5,50 0,50 0,50 -20,50 -40,50 -30,50 20,50 10,50 5,50 15,50 15,50 15,50 -10,50 0,50 -30,50 -80,50 -105,50 -10,50 90,50 -25,50 25,50 95,50 30,50 10,50 25,50 -25,50 5,50 25,50 5,50 -40,50 -5,55 -5,45 10,0 -5,-45 5,-55 40,-50 0,-50 -20,-50 15,-50 25,-50 5,-50 0,-50 -30,-50 -35,-50 10,-50 50,-50 10,-50 0,-50 -15,-50 -15,-50 -15,-50 -10,-50 0,-50 -15,-50 -15,-50 -15,-50 -5,-50 -10,-50 -20,-50 20,-50 15,-50 -80,-50 -35,-50 -215,-50 110,-50 85,-50 55,-50 40,-50 30,-50 15,-50 10,-50 -5,-50 5,-50 -25,-50 -5,-50 -10,-50 -5,-50 10,-50 15,-50 10,-50 -10,-50 -10,-50 5,-50 5,-55 15,-45 -25,-50 -15,-50 5,-55 20,-45 15,-50 -5,-50 -5,-50 0,-50 -5,-50 -15,-50 -5,-50 -15,-50 0,-50 10,-50 25,-50 10,-50 0,-50 10,-50 -25,-50 -5,-50 15,-50 0,-50 -15,-50 0,-50 15,-50 20,-50 -5,-50 z"
+       d="m 800,1000 0,-150 40,150 10,50 5,50 -10,50 -10,50 5,50 10,50 10,50 10,50 -5,50 15,50 -10,50 -25,50 -15,50 -15,50 -20,50 -15,50 20,50 15,50 15,50 0,50 0,55 0,45 5,50 -10,50 -25,45 -5,55 10,50 10,50 -5,45 5,55 -5,50 5,50 20,50 -5,50 -30,50 -10,50 0,50 10,50 30,50 0,50 -10,50 10,50 0,50 -10,50 -15,50 -15,50 35,50 25,50 5,50 0,50 0,50 -20,50 -35,50 -20,50 20,50 10,50 0,50 10,50 20,50 10,50 -15,50 0,50 -30,50 -80,50 -105,50 -10,50 90,50 -25,50 25,50 95,50 30,50 10,50 25,50 -25,50 5,50 25,50 5,50 -40,50 -5,55 -5,45 10,0 -5,-45 5,-55 40,-50 0,-50 -20,-50 15,-50 25,-50 5,-50 0,-50 -30,-50 -35,-50 10,-50 50,-50 10,-50 0,-50 -15,-50 -15,-50 -15,-50 -10,-50 5,-50 -20,-50 -20,-50 -10,-50 0,-50 0,-50 -30,-50 20,-50 0,-50 0,-50 0,-50 0,-50 0,-50 0,-50 -30,-50 20,-50 10,-50 10,-50 0,-50 -10,-50 0,-50 0,-50 -5,-50 -10,-50 -5,-50 10,-50 15,-50 10,-50 -10,-50 -10,-50 5,-50 5,-55 15,-45 -25,-50 -15,-50 5,-55 20,-45 15,-50 -5,-50 -5,-50 0,-50 -5,-50 -15,-50 -5,-50 -15,-50 0,-50 10,-50 25,-50 10,-50 0,-50 10,-50 -25,-50 -5,-50 15,-50 0,-50 -15,-50 0,-50 15,-50 20,-50 -5,-50 z"
        id="path6320"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -1306,7 +1350,7 @@
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 10,50 -10,50 -40,50 0,50 60,30 0,-30 10,-50 60,-70 -60,70 -10,50 0,50 0,50 15,50 30,50 45,50 35,50 30,50 -20,50 -25,50 10,50 55,50 85,50 10,50 20,50 -30,50 -80,50 -55,50 15,50 -20,50 50,50 -25,-50 25,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -55,-50 -50,-50 -10,-50 60,-50 80,-50 45,-50 65,-50 50,-50 10,-50 -30,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -10,-50 z"
+       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 10,50 -10,50 -40,50 0,50 60,30 0,-30 10,-50 60,-70 -60,70 -10,50 0,50 0,50 15,50 30,50 45,50 35,50 30,50 -20,50 -25,50 10,50 55,50 85,50 10,50 20,50 -30,50 -80,50 -55,50 15,50 -20,50 50,50 -25,-50 25,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -50,-50 -50,-50 -10,-50 60,-50 80,-50 40,-50 70,-50 40,-50 10,-50 -25,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -10,-50 z"
        id="path3992"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -1318,16 +1362,16 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 645,3150 40,50 -55,50 -65,50 -70,50 -75,50 0,50 130,50 25,50 15,50 -55,50 -85,50 50,-50 -25,-50 -15,-50 -55,-50 -50,-50 -10,-50 60,-50 80,-50 45,-50 65,-50 z"
+       d="m 640,3150 60,50 -40,50 -20,50 0,50 0,50 -20,50 -70,50 0,50 40,50 -50,50 -90,50 50,-50 -25,-50 -15,-50 -50,-50 110,-50 0,-50 30,-50 10,-50 -10,-50 60,-50 z"
        id="path3996"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccc" />
     <path
        style="fill:#00fa00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 420,3450 235,50 45,50 35,50 -5,50 -15,50 15,50 10,50 -5,50 20,50 -35,50 -25,50 -50,50 -30,50 5,-50 15,-50 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 85,-50 55,-50 -15,-50 -25,-50 z"
+       d="m 720,3650 -5,50 15,50 10,50 -5,50 20,50 -35,50 -25,50 -50,50 -30,50 5,-50 15,-50 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 90,-50 50,-50 z"
        id="path3998"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 280,3550 -15,50 20,50 35,50 85,50 -35,-50 -45,-50 -30,-50 z"
@@ -2643,7 +2687,7 @@
            sodipodi:role="line">Parthian Empire</tspan></text>
     </a>
     <a
-       id="a3486"
+       id="a3627"
        xlink:href="https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom">
       <text
          transform="matrix(0,1,-1,0,0,0)"
@@ -2657,6 +2701,23 @@
            x="2770"
            id="tspan3484"
            sodipodi:role="line">Greco-Bactrian Kingdom</tspan></text>
+    </a>
+    <a
+       xlink:href="https://en.wikipedia.org/wiki/Kushan_Empire"
+       id="a3573"
+       transform="matrix(0.91735276,-0.39807526,0.39807526,0.91735276,-1195.4443,549.66808)">
+      <text
+         xml:space="preserve"
+         style="font-size:46px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="2420.9263"
+         y="-1989.9973"
+         id="text3569"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.42579233,0.90482092,-0.90482092,-0.42579233,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3571"
+           x="2420.9263"
+           y="-1989.9973">Kushan Empire</tspan></text>
     </a>
     <a
        id="a3494"
@@ -2873,7 +2934,8 @@
     </a>
     <a
        id="a3507"
-       xlink:href="https://en.wikipedia.org/wiki/Sassanid_Empire">
+       xlink:href="https://en.wikipedia.org/wiki/Sassanid_Empire"
+       transform="translate(50,0)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -3020,7 +3082,8 @@
     </a>
     <a
        id="a3613"
-       xlink:href="https://en.wikipedia.org/wiki/East_Francia">
+       xlink:href="https://en.wikipedia.org/wiki/East_Francia"
+       transform="translate(10,0)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -3080,6 +3143,488 @@
            y="3857.5"
            x="200"
            sodipodi:role="line">Empire</tspan></text>
+    </a>
+    <a
+       id="a3551"
+       xlink:href="https://en.wikipedia.org/wiki/Maurya_Empire"
+       transform="translate(-10,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3547"
+         y="-740"
+         x="2700"
+         style="font-size:38px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-740"
+           x="2700"
+           id="tspan3549"
+           sodipodi:role="line">Maurya Empire</tspan></text>
+    </a>
+    <a
+       id="a3559"
+       xlink:href="https://en.wikipedia.org/wiki/Vedic_Civilisation">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3555"
+         y="-720"
+         x="1500"
+         style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-720"
+           x="1500"
+           id="tspan3557"
+           sodipodi:role="line">Vedic period</tspan></text>
+    </a>
+    <a
+       id="a3568"
+       xlink:href="https://en.wikipedia.org/wiki/Mahajanapadas">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3563"
+         y="-760"
+         x="2400"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-760"
+           x="2400"
+           id="tspan3566"
+           sodipodi:role="line">Mahajanapada</tspan></text>
+    </a>
+    <a
+       id="a3576"
+       xlink:href="https://en.wikipedia.org/wiki/Nanda_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3572"
+         y="-780"
+         x="2620"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-780"
+           x="2620"
+           id="tspan3574"
+           sodipodi:role="line">Nanda Empire</tspan></text>
+    </a>
+    <a
+       id="a3564"
+       xlink:href="https://en.wikipedia.org/wiki/Indus_Valley_Civilization">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3559"
+         y="-770"
+         x="950"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-770"
+           x="950"
+           id="tspan3562"
+           sodipodi:role="line">Indus Valley Civilization</tspan></text>
+    </a>
+    <a
+       id="a3582"
+       xlink:href="https://en.wikipedia.org/wiki/Scythians">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3577"
+         y="-790"
+         x="2300"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-790"
+           x="2300"
+           id="tspan3579"
+           sodipodi:role="line">Scythians</tspan></text>
+    </a>
+    <a
+       id="a3590"
+       xlink:href="https://en.wikipedia.org/wiki/Yuezhi">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3586"
+         y="-770"
+         x="2900"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-770"
+           x="2900"
+           id="tspan3588"
+           sodipodi:role="line">Yuezhi</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2800"
+       y="-750"
+       id="text3594"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3596"
+         x="2800"
+         y="-750">Indo-Scythians</tspan></text>
+    <a
+       id="a3602"
+       transform="translate(0,-10)"
+       xlink:href="https://en.wikipedia.org/wiki/Xiongnu">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3598"
+         y="-790"
+         x="2810"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-790"
+           x="2810"
+           id="tspan3600"
+           sodipodi:role="line">Xiongnu</tspan></text>
+    </a>
+    <a
+       id="a3610"
+       xlink:href="https://en.wikipedia.org/wiki/Gupta_Empire"
+       transform="translate(170,10)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3606"
+         y="-570"
+         x="3330"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-570"
+           x="3330"
+           id="tspan3608"
+           sodipodi:role="line">Gupta Empire</tspan></text>
+    </a>
+    <a
+       id="a4405"
+       transform="translate(-110,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4401"
+         y="-560"
+         x="3340"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-560"
+           x="3340"
+           id="tspan4403"
+           sodipodi:role="line">Huns</tspan></text>
+    </a>
+    <a
+       id="a4413"
+       xlink:href="https://en.wikipedia.org/wiki/Xianbei_state">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4409"
+         y="-800"
+         x="3090"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-800"
+           x="3090"
+           id="tspan4411"
+           sodipodi:role="line">Xianbei state</tspan></text>
+    </a>
+    <a
+       id="a4421"
+       xlink:href="https://en.wikipedia.org/wiki/Rouran_Khaganate">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4417"
+         y="-810"
+         x="3330"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-810"
+           x="3330"
+           id="tspan4419"
+           sodipodi:role="line">Rouran Khaganate</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3550"
+       y="-780"
+       id="text4427"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4429"
+         x="3550"
+         y="-780">Göktürks</tspan></text>
+    <a
+       id="a4443"
+       xlink:href="https://en.wikipedia.org/wiki/Uyghur_Khaganate">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4439"
+         y="-800"
+         x="3780"
+         style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-800"
+           x="3780"
+           id="tspan4441"
+           sodipodi:role="line">Uyghur Khaganate</tspan></text>
+    </a>
+    <a
+       transform="translate(300,800)"
+       id="a3381-6"
+       xlink:href="https://en.wikipedia.org/wiki/Battle_of_Herat_(484)"
+       style="fill:#ff0000;display:inline">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3377-6"
+         y="2680"
+         x="220"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="2680"
+           x="220"
+           id="tspan3379-3"
+           sodipodi:role="line">Battle of Herat</tspan></text>
+    </a>
+    <a
+       id="a4479"
+       xlink:href="https://en.wikipedia.org/wiki/Hephthalite">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4475"
+         y="-630"
+         x="3410"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-630"
+           x="3410"
+           id="tspan4477"
+           sodipodi:role="line">Hephthalite Empire</tspan></text>
+    </a>
+    <a
+       id="a4487"
+       xlink:href="https://en.wikipedia.org/wiki/Quraysh_(tribe)"
+       transform="translate(-60,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4483"
+         y="3620"
+         x="630"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="3620"
+           x="630"
+           id="tspan4485"
+           sodipodi:role="line">Quraysh tribe</tspan></text>
+    </a>
+    <a
+       id="a4495"
+       xlink:href="https://en.wikipedia.org/wiki/Muhammad"
+       transform="translate(-50,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4491"
+         y="3630"
+         x="600"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="3630"
+           x="600"
+           id="tspan4493"
+           sodipodi:role="line"
+           style="fill:#ff0000;fill-opacity:1">Muhammad Conquests</tspan></text>
+    </a>
+    <path
+       style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 790,3600 0,50 -20,50 30,50 0,50 0,50 10,50 20,50 20,50 -30,-50 -20,-50 -10,-50 -10,-50 -10,-50 -10,-50 20,-50 z"
+       id="path4499"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <a
+       id="a4505"
+       xlink:href="https://en.wikipedia.org/wiki/Tibetan_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4501"
+         y="-780"
+         x="3730"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-780"
+           x="3730"
+           id="tspan4503"
+           sodipodi:role="line">Tibetan Empire</tspan></text>
+    </a>
+    <a
+       id="a4513"
+       xlink:href="https://en.wikipedia.org/wiki/Era_of_Fragmentation">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4509"
+         y="-800"
+         x="3900"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-800"
+           x="3900"
+           id="tspan4511"
+           sodipodi:role="line">Era of Fragmentation</tspan></text>
+    </a>
+    <a
+       id="a4521"
+       xlink:href="https://en.wikipedia.org/wiki/Muslim_conquests">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4517"
+         y="3650"
+         x="510"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="3650"
+           x="510"
+           id="tspan4519"
+           sodipodi:role="line">Muslim conquests</tspan></text>
+    </a>
+    <a
+       id="a4529"
+       xlink:href="https://en.wikipedia.org/wiki/List_of_Muslim_empires_and_dynasties">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4525"
+         y="-690"
+         x="3650"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-690"
+           x="3650"
+           id="tspan4527"
+           sodipodi:role="line">Muslim empires and dynasties</tspan></text>
+    </a>
+    <a
+       id="a4537"
+       xlink:href="https://en.wikipedia.org/wiki/Caliphate">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4533"
+         y="3730"
+         x="480"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="3730"
+           x="480"
+           id="tspan4535"
+           sodipodi:role="line">Caliphate</tspan></text>
+    </a>
+    <a
+       id="a4545"
+       xlink:href="https://en.wikipedia.org/wiki/Mongol_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4541"
+         y="-810"
+         x="4200"
+         style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-810"
+           x="4200"
+           id="tspan4543"
+           sodipodi:role="line">Mongol Empire</tspan></text>
+    </a>
+    <a
+       id="a4553"
+       xlink:href="https://en.wikipedia.org/wiki/Russian_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4549"
+         y="-780"
+         x="4720"
+         style="font-size:26px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-780"
+           x="4720"
+           id="tspan4551"
+           sodipodi:role="line">Russian Empire</tspan></text>
+    </a>
+    <a
+       id="a4565"
+       xlink:href="https://en.wikipedia.org/wiki/Tsardom_of_Russia">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4557"
+         y="-790"
+         x="4550"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-790"
+           x="4550"
+           id="tspan4559"
+           sodipodi:role="line">Tsardom of Russia</tspan></text>
+    </a>
+    <a
+       id="a4569"
+       xlink:href="https://en.wikipedia.org/wiki/Grand_Duchy_of_Moscow">
+      <text
+         transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4561"
+         y="3518.813"
+         x="2805.2371"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="3518.813"
+           x="2805.2371"
+           id="tspan4563"
+           sodipodi:role="line">Grand Duchy of Moscow</tspan></text>
+    </a>
+    <a
+       id="a4577"
+       xlink:href="https://en.wikipedia.org/wiki/Slavic_tribes">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4573"
+         y="-790"
+         x="3980"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-790"
+           x="3980"
+           id="tspan4575"
+           sodipodi:role="line">Slavs</tspan></text>
+      <a
+         id="a4585"
+         xlink:href="https://en.wikipedia.org/wiki/Pala_Empire">
+        <text
+           transform="matrix(0,1,-1,0,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4581"
+           y="-740"
+           x="3750"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="-740"
+             x="3750"
+             id="tspan4583"
+             sodipodi:role="line">Pala Empire</tspan></text>
+      </a>
     </a>
   </g>
 </svg>
