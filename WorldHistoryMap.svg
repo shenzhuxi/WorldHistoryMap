@@ -75,14 +75,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="271.12191"
-     inkscape:cy="948.5562"
+     inkscape:cx="469.62191"
+     inkscape:cy="636.5562"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1387"
+     inkscape:window-width="1391"
      inkscape:window-height="856"
-     inkscape:window-x="53"
+     inkscape:window-x="49"
      inkscape:window-y="22"
      inkscape:window-maximized="0"
      showguides="true"
@@ -375,6 +375,10 @@
        orientation="0,1"
        position="80,1350"
        id="guide4473" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,850"
+       id="guide3709" />
   </sodipodi:namedview>
   <metadata
      id="metadata3069">
@@ -1214,6 +1218,13 @@
          id="tspan3380"
          x="170"
          y="1532" /></text>
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:0.39215686000000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200,3900 -5,-50 60,0 5,50 -25,50 5,50 25,50 10,50 -30,50 -20,50 10,50 10,50 5,50 -15,50 5,50 10,50 45,50 85,50 55,50 15,50 70,50 35,50 -55,50 -15,50 95,50 0,50 -70,0 0,-50 -95,-50 0,-50 -5,-50 -10,-50 -35,-50 -10,-50 -40,-50 -70,-50 -30,-50 -5,-50 0,-50 0,-50 0,-50 -10,-50 0,-50 0,-50 15,-50 -5,-50 -10,-50 -30,-50 z"
+       id="path4046"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccc"
+       transform="translate(0,-3947.6378)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1396,13 +1407,13 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 100,3450 0,600 15,50 0,50 -5,50 5,50 5,50 0,50 0,50 0,50 -10,50 -5,50 0,50 0,50 5,50 5,50 25,50 45,50 85,50 115,50 0,50 90,0 0,-50 -105,-50 -25,-50 10,-50 -25,-50 -105,-50 -45,-50 -5,-50 -20,-50 0,-50 5,-55 5,-45 5,-50 0,-50 -10,-50 -15,-50 -5,-50 -15,-50 -15,-50 -10,-50 5,-50 15,-50 -10,-50 0,-50 -5,-50 5,-50 0,-50 0,-50 0,-50 -5,-50 z"
+       d="m 100,3450 0,600 10,50 5,50 -5,50 5,50 5,50 0,50 0,50 0,50 -10,50 -5,50 0,50 0,50 5,50 5,50 25,50 45,50 85,50 115,50 0,50 90,0 0,-50 -105,-50 -30,-50 0,-50 -20,-50 -90,-50 -50,-50 -10,-50 -20,-50 10,-50 0,-50 10,-50 0,-50 0,-50 -10,-50 -20,-50 0,-50 -10,-50 -20,-50 -10,-50 10,-50 10,-50 -10,-50 0,-50 0,-50 0,-50 0,-50 0,-50 0,-50 -5,-50 z"
        id="path3192"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 100,4050 0,950 55,0 0,-50 -15,-50 -10,-50 -15,-50 -10,-50 -5,-50 0,-100 5,-50 5,-50 10,-50 0,-50 0,-50 0,-50 -5,-50 -5,-50 5,-50 0,-50 z"
+       d="m 100,4050 0,950 55,0 0,-50 -15,-50 -10,-50 -15,-50 -10,-50 -5,-50 0,-100 5,-50 5,-50 10,-50 0,-50 0,-50 0,-50 -5,-50 -5,-50 5,-50 -5,-50 z"
        id="path3962"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccc" />
@@ -1412,34 +1423,33 @@
        id="path3266"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
-    <path
-       style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 140,4150 5,50 15,50 10,50 0,50 -5,50 -5,50 -5,50 0,50 20,50 5,50 45,50 105,50 25,50 -10,50 25,50 105,50 0,50 10,0 0,-50 -95,-50 -10,-50 -15,-50 -20,-50 -65,-50 -30,-50 -40,-50 -35,-50 -10,-50 5,-50 10,-50 5,-50 -5,-50 -10,-50 -20,-50 z"
-       id="path4036"
-       inkscape:connector-curvature="0" />
+    <a
+       id="a3735">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4036"
+         d="m 120,3800 10,50 10,50 -10,50 0,50 0,50 20,50 10,50 0,50 10,50 10,50 0,50 0,50 -10,50 0,50 0,50 10,50 20,50 40,50 90,50 20,50 0,50 30,50 105,50 0,50 10,0 0,-50 -105,-50 -10,-50 -15,-50 -20,-50 -55,-50 -30,-50 -30,-50 -50,-50 0,-50 0,-50 10,-50 0,-50 0,-50 -10,-50 0,-50 -10,-50 0,-50 -10,-50 0,-50 -10,-50 10,-50 -20,-50 z"
+         style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </a>
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 115,3550 5,50 0,50 0,50 5,50 15,50 10,50 0,50 -25,50 -5,50 0,50 20,50 15,50 10,50 20,50 10,50 0,50 -5,50 -10,50 -15,50 5,-50 10,-50 5,-50 -5,-50 -10,-50 -20,-50 -10,-50 -15,-50 -15,-50 -10,-50 5,-50 15,-50 -10,-50 0,-50 -5,-50 5,-50 0,-50 0,-50 0,-50 -5,-50 z"
+       d="m 120,3800 10,50 10,50 -10,50 0,50 0,50 20,50 10,50 0,50 10,50 10,50 0,50 0,50 -10,50 0,50 0,50 10,50 20,50 40,50 90,50 20,50 0,50 30,50 105,50 0,50 -10,0 0,-50 -105,-50 -30,-50 0,-50 -20,-50 -90,-50 -50,-50 -10,-50 -20,-50 10,-50 0,-50 10,-50 0,-50 0,-50 -10,-50 -20,-50 0,-50 -10,-50 -20,-50 -10,-50 10,-50 10,-50 -10,-50 0,-50 0,-50 z"
        id="path4038"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,3450 5,50 10,50 5,50 0,50 0,50 5,50 15,50 10,50 0,50 -25,50 -5,50 0,50 20,50 15,50 10,50 20,50 10,50 0,50 -5,50 -10,50 -15,50 10,50 35,50 40,50 30,50 65,50 20,50 15,50 10,50 105,50 0,50 c 0,0 5,0 5,0 l 0,-50 -105,-50 -5,-50 -5,-50 -20,-50 -55,-50 -30,-50 -15,-50 -60,-50 -15,-50 5,-50 5,-50 5,-50 0,-50 -10,-50 -10,-50 -15,-50 -5,-50 -5,-50 0,-50 0,-50 40,-50 -5,-50 -20,-50 -20,-50 -5,-50 -20,-50 0,-50 -10,-50 -10,-50 z"
+       d="m 100,3450 5,50 5,50 0,50 0,50 0,50 0,50 10,50 20,50 20,50 -10,50 10,50 0,50 10,50 0,50 10,50 0,50 10,50 0,50 0,50 -10,50 0,50 0,50 50,50 30,50 30,50 55,50 20,50 15,50 10,50 105,50 0,50 5,0 0,-50 -105,-50 -5,-50 -5,-50 -20,-50 -55,-50 -30,-50 -15,-50 -60,-50 -15,-50 5,-50 5,-50 0,-50 0,-50 -10,-50 0,-50 0,-50 0,-50 0,-50 0,-50 -20,-50 30,-50 -5,-50 -20,-50 -20,-50 -5,-50 -20,-50 0,-50 -10,-50 -10,-50 z"
        id="path4040"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 200,3900 -20,50 20,50 10,50 5,50 -30,50 0,50 10,50 20,50 0,50 -5,50 5,100 30,50 70,50 40,50 10,50 35,50 10,50 -5,50 5,50 95,50 0,50 -5,0 0,-50 -105,-50 -10,-100 -20,-50 -55,-50 -30,-50 -15,-50 -60,-50 -15,-50 10,-100 5,-50 0,-50 -10,-50 -10,-50 -15,-50 -5,-50 -5,-50 0,-100 z"
+       d="m 200,4000 10,50 5,50 -15,50 0,50 0,50 10,50 0,50 0,50 5,100 30,50 70,50 40,50 10,50 35,50 10,50 -5,50 5,50 95,50 0,50 -5,0 0,-50 -105,-50 -5,-50 -5,-50 -20,-50 -55,-50 -30,-50 -15,-50 -60,-50 -15,-50 10,-100 0,-50 0,-50 -10,-50 0,-50 0,-50 0,-50 0,-50 0,-50 -20,-50 z"
        id="path4042"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
-    <path
-       style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 200,3900 -5,-50 60,0 5,50 -25,50 5,50 25,50 10,50 -30,50 -20,50 10,50 10,50 5,50 -15,50 5,50 10,50 45,50 85,50 55,50 15,50 70,50 35,50 -55,50 -15,50 95,50 0,50 -70,0 0,-50 -95,-50 0,-50 -5,-50 -10,-50 -35,-50 -10,-50 -40,-50 -70,-50 -30,-50 -5,-50 0,-50 5,-50 0,-50 -20,-50 -10,-50 0,-50 30,-50 -5,-50 -10,-50 -20,-50 z"
-       id="path4046"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 240,4000 35,50 10,50 -25,50 -5,50 -10,50 10,50 5,50 -10,50 30,50 15,50 65,50 100,50 45,50 -5,50 35,50 30,50 -15,50 -35,50 75,50 0,50 -10,0 0,-50 -95,-50 15,-50 55,-50 -35,-50 -70,-50 -15,-50 -55,-50 -85,-50 -45,-50 -10,-50 -5,-50 15,-50 -5,-50 -10,-50 -10,-50 20,-50 30,-50 -10,-50 z"
@@ -1532,23 +1542,6 @@
       <a
          id="a3253"
          xlink:href="http://en.wikipedia.org/wiki/Ancient_Egypt" />
-    </a>
-    <a
-       id="a3303"
-       xlink:href="http://en.wikipedia.org/wiki/Hun"
-       transform="translate(0,1050)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text3271"
-         y="990"
-         x="800"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:20px"
-           y="990"
-           x="800"
-           id="tspan3273"
-           sodipodi:role="line">Hun</tspan></text>
     </a>
     <a
        id="a3307"
@@ -3758,5 +3751,237 @@
            id="tspan4459"
            sodipodi:role="line">Kingdom of France</tspan></text>
     </a>
+    <a
+       id="a3678"
+       xlink:href="http://en.wikipedia.org/wiki/Vikings"
+       transform="translate(10,30)">
+      <text
+         inkscape:transform-center-x="8.9648438"
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3674"
+         y="-110"
+         x="3670"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-110"
+           x="3670"
+           id="tspan3676"
+           sodipodi:role="line">Vikings</tspan></text>
+    </a>
+    <a
+       id="a3686"
+       xlink:href="http://en.wikipedia.org/wiki/Low_Countries"
+       transform="translate(0,-30)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3682"
+         y="-190"
+         x="4030"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-190"
+           x="4030"
+           id="tspan3684"
+           sodipodi:role="line">Low Countries</tspan></text>
+    </a>
+    <a
+       id="a3694"
+       xlink:href="http://en.wikipedia.org/wiki/County_of_Holland">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3690"
+         y="-190"
+         x="4110"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-190"
+           x="4110"
+           id="tspan3692"
+           sodipodi:role="line">County of Holland</tspan></text>
+    </a>
+    <a
+       id="a3719"
+       xlink:href="http://en.wikipedia.org/wiki/Kalmar_Union">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3711"
+         y="-170"
+         x="4400"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-170"
+           x="4400"
+           id="tspan3713"
+           sodipodi:role="line">Kalmar Union</tspan></text>
+    </a>
+    <a
+       id="a3727"
+       xlink:href="http://en.wikipedia.org/wiki/North_Sea_Empire">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3723"
+         y="4020"
+         x="100"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="4020"
+           x="100"
+           id="tspan3725"
+           sodipodi:role="line">North Sea Empire</tspan></text>
+    </a>
+    <a
+       transform="translate(0,3947.6378)"
+       style="display:inline"
+       id="a3738"
+       xlink:href="http://en.wikipedia.org/wiki/Swedish_Empire">
+      <text
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3731"
+         y="341.08157"
+         x="595.64001"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="341.08157"
+           x="595.64001"
+           id="tspan3733"
+           sodipodi:role="line">Swedish Empire</tspan></text>
+    </a>
+    <a
+       id="a3749"
+       xlink:href="http://en.wikipedia.org/wiki/United_States">
+      <text
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3745"
+         y="3337.5439"
+         x="3521.3918"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="3337.5439"
+           x="3521.3918"
+           id="tspan3747"
+           sodipodi:role="line">United States</tspan></text>
+    </a>
+    <a
+       id="a3757"
+       xlink:href="http://en.wikipedia.org/wiki/History_of_Sweden"
+       transform="matrix(0,1,-1,0,5398,4631)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3753"
+         y="5048"
+         x="149"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="5048"
+           x="149"
+           id="tspan3755"
+           sodipodi:role="line">Sweden</tspan></text>
+    </a>
+    <a
+       id="a3765"
+       xlink:href="http://en.wikipedia.org/wiki/History_of_Norway"
+       transform="matrix(0,1,-1,0,4905,4173)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3761"
+         y="4765"
+         x="-73"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="4765"
+           x="-73"
+           id="tspan3763"
+           sodipodi:role="line">Norway</tspan></text>
+    </a>
+    <a
+       id="a3773"
+       xlink:href="http://en.wikipedia.org/wiki/History_of_Denmark">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3769"
+         y="-160"
+         x="3840"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-160"
+           x="3840"
+           id="tspan3771"
+           sodipodi:role="line">Denmark</tspan></text>
+    </a>
+    <a
+       id="a3781"
+       xlink:href="http://en.wikipedia.org/wiki/Dutch_Empire">
+      <text
+         inkscape:transform-center-x="43.335004"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3777"
+         y="2074.4744"
+         x="4033.095"
+         style="font-size:28.00000009px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"
+         inkscape:transform-center-y="-11.072892"><tspan
+           y="2074.4744"
+           x="4033.095"
+           id="tspan3779"
+           sodipodi:role="line">Dutch Empire</tspan></text>
+      <a
+         id="a3789"
+         transform="translate(-10,-90)"
+         xlink:href="http://en.wikipedia.org/wiki/History_of_the_Netherlands">
+        <text
+           transform="matrix(0,1,-1,0,0,0)"
+           sodipodi:linespacing="125%"
+           id="text3785"
+           y="-200"
+           x="4300"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:10px"
+             y="-200"
+             x="4300"
+             id="tspan3787"
+             sodipodi:role="line">Netherlands</tspan></text>
+      </a>
+      <a
+         id="a3797"
+         xlink:href="http://en.wikipedia.org/wiki/Spanish_Empire">
+        <text
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+           sodipodi:linespacing="125%"
+           id="text3793"
+           y="2991.0618"
+           x="3344.615"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="2991.0618"
+             x="3344.615"
+             id="tspan3795"
+             sodipodi:role="line">Spanish Empire</tspan></text>
+      </a>
+    </a>
   </g>
+  <a
+     id="a3702"
+     xlink:href="http://en.wikipedia.org/wiki/Petty_kingdoms_of_Norway">
+    <text
+       transform="matrix(0,1,-1,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="text3698"
+       y="-120"
+       x="3830"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="-120"
+         x="3830"
+         id="tspan3700"
+         sodipodi:role="line">Petty kingdoms of Norway</tspan></text>
+  </a>
 </svg>
