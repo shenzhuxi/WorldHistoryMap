@@ -75,15 +75,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="469.62191"
-     inkscape:cy="636.5562"
+     inkscape:cx="341.58874"
+     inkscape:cy="591.09113"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1391"
+     inkscape:window-width="1389"
      inkscape:window-height="856"
-     inkscape:window-x="49"
-     inkscape:window-y="22"
+     inkscape:window-x="51"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -341,7 +341,7 @@
        id="guide3514" />
     <sodipodi:guide
        orientation="0,1"
-       position="-70,1050"
+       position="370,1050"
        id="guide3621" />
     <sodipodi:guide
        orientation="0,1"
@@ -360,7 +360,7 @@
        position="640,1550"
        id="guide3620" />
     <sodipodi:guide
-       orientation="0,1"
+       orientation="6.123234e-17,1"
        position="250,1150"
        id="guide4425" />
     <sodipodi:guide
@@ -1225,6 +1225,16 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccc"
        transform="translate(0,-3947.6378)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="655"
+       y="4242"
+       id="text4608"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-3947.6378)"><tspan
+         sodipodi:role="line"
+         id="tspan4610"></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1361,13 +1371,13 @@
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 10,50 -10,50 -40,50 0,50 60,30 0,-30 10,-50 60,-70 -60,70 -10,50 0,50 0,50 15,50 30,50 45,50 35,50 30,50 -20,50 -25,50 10,50 55,50 85,50 10,50 20,50 -30,50 -80,50 -55,50 15,50 -20,50 50,50 -25,-50 25,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -50,-50 -50,-50 -10,-50 60,-50 80,-50 40,-50 70,-50 40,-50 10,-50 -25,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -10,-50 z"
+       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,55 15,45 15,50 35,50 45,50 10,50 -10,50 -40,50 0,50 60,30 0,-30 10,-50 60,-70 -60,70 -10,50 0,50 0,50 15,50 35,50 40,50 40,50 25,50 -20,50 -25,50 30,50 40,50 80,50 10,50 20,50 -30,50 -80,50 -50,50 10,50 -20,50 50,50 -20,-50 20,-50 -10,-50 70,-50 90,-50 45,-50 -30,-50 5,-55 15,-45 5,-50 20,-50 -60,-50 -40,-50 -75,-50 -35,-50 50,-50 -25,-50 -15,-50 -50,-50 -50,-50 -10,-50 60,-50 80,-50 40,-50 70,-50 40,-50 10,-50 -25,-50 5,-50 -30,-50 -5,-50 -55,-50 -150,-50 -105,-50 -85,-50 -25,-50 -15,-50 -15,-50 -10,-50 -5,-50 -10,-50 -5,-50 -5,-50 -10,-50 z"
        id="path3992"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,50 15,50 15,50 35,50 45,50 10,50 -10,50 -40,50 0,50 60,30 0,70 -15,50 20,50 35,50 85,50 -155,-50 -30,-50 -15,-50 -20,-50 -30,-50 0,-50 -10,-50 -15,-50 -20,-50 -10,-50 z"
+       d="m 100,2600 10,50 5,50 10,50 10,50 -15,50 -10,50 0,50 30,50 10,50 15,50 15,50 35,50 45,50 10,50 -10,50 -40,50 0,50 60,30 0,70 -15,50 20,50 35,50 70,50 -140,-50 -30,-50 -15,-50 -20,-50 -30,-50 0,-50 -10,-50 -15,-50 -20,-50 -10,-50 z"
        id="path3994"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
@@ -1384,21 +1394,17 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccc" />
     <path
-       style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 280,3550 -15,50 20,50 35,50 85,50 -35,-50 -45,-50 -30,-50 z"
-       id="path4002"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 405,3750 -20,50 -35,50 20,50 30,50 -10,-50 25,-50 20,-50 z"
+       d="m 330,3650 60,100 -10,50 -30,50 20,50 30,50 60,50 80,50 10,50 20,50 -30,50 -110,50 -50,50 30,50 -10,50 20,-50 -10,-50 50,-50 80,-50 30,-50 -20,-50 -10,-50 -80,-50 -40,-50 -30,-50 25,-50 20,-50 -25,-50 z"
        id="path4004"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100,3250 0,200 10,50 10,50 10,50 0,50 20,50 5,50 20,50 20,50 155,0 35,-50 20,-50 -155,-50 -30,-50 -15,-50 -20,-50 -30,-50 0,-50 -10,-50 -15,-50 -20,-50 z"
+       d="m 100,3250 0,200 10,50 10,50 10,50 0,50 20,50 5,50 20,50 20,50 135,0 40,-50 20,-50 -140,-50 -30,-50 -15,-50 -20,-50 -30,-50 0,-50 -10,-50 -15,-50 -20,-50 z"
        id="path4006"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 755,5000 45,0 0,-50 10,-50 55,-50 -10,-50 -30,-50 -5,-50 15,-50 -20,-50 -10,-50 -20,-50 -100,-50 -40,-50 20,-50 -90,-50 0,-50 120,-50 80,-50 35,-50 15,-50 0,-50 -15,-50 -25,-50 -35,-50 -10,-50 -5,50 20,50 15,50 15,50 -5,50 -5,50 -35,50 -80,50 -85,50 0,50 80,50 -20,50 35,50 80,50 25,50 5,50 5,50 -40,50 10,50 25,50 -15,50 -35,50 25,50 z"
@@ -1457,7 +1463,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 255,3850 60,0 10,50 35,50 55,50 70,50 -10,50 -30,50 -105,50 -40,50 -10,50 55,50 10,50 10,50 65,50 165,100 35,50 -45,50 15,50 50,50 25,50 -40,50 35,50 0,50 -25,0 0,-50 -45,-50 0,-50 -10,-50 -30,-50 -40,-50 45,-50 -50,-50 -100,-50 -80,-50 -25,-50 -50,-50 0,-50 -5,-50 -10,-50 10,-50 5,-50 25,-50 -10,-50 -35,-50 -5,-50 25,-50 z"
+       d="m 255,3850 55,0 20,50 30,50 40,50 30,50 10,50 -20,50 -80,50 -40,50 -10,50 50,50 20,50 10,50 60,50 165,100 35,50 -45,50 15,50 50,50 25,50 -40,50 35,50 0,50 -25,0 0,-50 -45,-50 0,-50 -10,-50 -30,-50 -40,-50 45,-50 -50,-50 -100,-50 -80,-50 -25,-50 -50,-50 0,-50 -5,-50 -10,-50 10,-50 5,-50 25,-50 -10,-50 -35,-50 -5,-50 25,-50 z"
        id="path4050"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -1472,20 +1478,20 @@
        id="path4056"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 315,3850 10,50 35,50 55,50 70,50 -10,50 -10,50 -90,50 -35,50 0,50 45,50 5,50 55,50 15,50 85,50 70,50 30,50 -40,50 20,50 -15,-50 45,-50 -35,-50 -70,-50 -85,-50 -15,-50 -50,-50 0,-50 -40,-50 45,-50 95,-50 45,-50 -15,-50 -10,-50 -65,-50 -55,-50 -30,-50 -20,-50 z"
        id="path4058"
+       style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 390,3750 -30,-50 -30,-50 -35,-50 -15,-50 -15,50 20,50 35,50 70,50 -20,50 -40,50 20,50 30,50 40,50 40,50 10,50 -10,50 -85,50 -35,50 0,50 45,50 5,50 55,50 15,50 85,50 70,50 30,50 -40,50 20,50 -15,-50 45,-50 -35,-50 -70,-50 -85,-50 -15,-50 -50,-50 0,-50 -40,-50 45,-50 95,-50 45,-50 -15,-50 -10,-50 -60,-50 -60,-50 -30,-50 -20,-50 30,-50 z"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 475,4100 -30,50 -105,50 -40,50 0,50 50,50 10,50 60,50 20,50 155,100 35,50 -45,50 20,50 50,50 25,50 -40,50 35,50 0,50 30,0 0,-50 -30,-50 25,-50 -10,-50 -65,-50 -20,-50 40,-50 -30,-50 -70,-50 -85,-50 -15,-50 -55,-50 -5,-50 -45,-50 0,-50 35,-50 90,-50 z"
+       d="m 470,4100 -30,50 -80,50 -40,50 -10,50 50,50 10,50 50,50 20,50 155,100 35,50 -45,50 20,50 50,50 25,50 -40,50 35,50 0,50 30,0 0,-50 -30,-50 25,-50 -10,-50 -65,-50 -20,-50 40,-50 -30,-50 -70,-50 -85,-50 -15,-50 -55,-50 -5,-50 -45,-50 0,-50 35,-50 85,-50 z"
        id="path4060"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 755,3900 -35,50 -25,50 -50,50 -30,50 30,50 -45,50 -90,50 -70,50 10,50 -25,50 40,50 50,50 70,50 50,50 40,50 -25,50 15,50 50,50 10,50 -25,50 40,50 0,50 15,0 0,-50 -25,-50 35,-50 15,-50 -35,-50 -20,-50 15,-50 -20,-50 -5,-50 -15,-50 -80,-50 -45,-50 15,-50 -70,-50 15,-50 75,-50 70,-50 40,-50 30,-50 10,-50 5,-50 z"
+       d="m 755,3900 -35,50 -25,50 -50,50 -30,50 30,50 -45,50 -90,50 -70,50 10,50 -20,50 40,50 45,50 70,50 50,50 40,50 -25,50 15,50 50,50 10,50 -25,50 40,50 0,50 15,0 0,-50 -25,-50 35,-50 15,-50 -35,-50 -20,-50 15,-50 -20,-50 -5,-50 -15,-50 -80,-50 -45,-50 15,-50 -70,-50 15,-50 75,-50 70,-50 40,-50 30,-50 10,-50 5,-50 z"
        id="path4062"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -1500,21 +1506,23 @@
        id="path3211"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 300,4250 -10,50 55,50 10,50 10,50 65,50 165,100 -75,-50 -80,-50 -20,-50 -60,-50 -10,-50 -50,-50 z"
+       style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 330,3850 -20,0 20,50 30,50 40,50 30,50 10,50 -20,50 -80,50 -40,50 -10,50 50,50 20,50 10,50 0,-50 -10,-50 -50,-50 10,-50 40,-50 80,-50 30,-50 -10,-50 -40,-50 -40,-50 -30,-50 z"
        id="path3981"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 465,4450 0,50 85,50 70,50 35,50 -45,50 15,50 65,50 25,50 -20,50 40,50 0,50 5,0 0,-50 -40,-50 25,-50 -10,-50 -50,-50 -15,-50 25,-50 -40,-50 -50,-50 -70,-50 z"
+       d="m 430,4400 20,50 15,50 85,50 70,50 35,50 -45,50 15,50 65,50 25,50 -25,50 40,50 0,50 10,0 0,-50 -40,-50 25,-50 -10,-50 -50,-50 -15,-50 25,-50 -40,-50 -50,-50 -70,-50 -45,-50 z"
        id="path3983"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 455,4000 65,50 10,50 15,50 -45,50 -95,50 -45,50 40,50 0,50 20,-50 -15,-50 55,-50 80,-50 30,-50 -20,-50 -10,-50 z"
+       d="m 460,4000 60,50 10,50 15,50 -45,50 -95,50 -45,50 40,50 0,50 20,-50 -10,-50 50,-50 80,-50 30,-50 -20,-50 -10,-50 z"
        id="path3214"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 545,4250 -25,50 70,50 -15,50 45,50 -15,-50 20,-50 -80,-50 z"
@@ -1815,18 +1823,22 @@
            id="tspan3410"
            sodipodi:role="line">Monglolia</tspan></text>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="879.43402"
-       y="-814.00958"
-       id="text3416"
-       sodipodi:linespacing="125%"
-       transform="matrix(-0.01261598,0.99992042,-0.99992042,-0.01261598,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3418"
+    <a
+       id="a3723"
+       xlink:href="http://en.wikipedia.org/wiki/Afanasevo_culture">
+      <text
+         transform="matrix(-0.01261598,0.99992042,-0.99992042,-0.01261598,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3416"
+         y="-814.00958"
          x="879.43402"
-         y="-814.00958">Afanasevo</tspan></text>
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-814.00958"
+           x="879.43402"
+           id="tspan3418"
+           sodipodi:role="line">Afanasevo</tspan></text>
+    </a>
     <a
        id="a3323"
        xlink:href="http://en.wikipedia.org/wiki/Early_Dynastic_Period_of_Sumer"
@@ -2286,18 +2298,22 @@
            id="tspan3400"
            sodipodi:role="line">Ptolemaic Egypt</tspan></text>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2260"
-       y="-100"
-       id="text3406"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3408"
+    <a
+       id="a3741"
+       xlink:href="http://en.wikipedia.org/wiki/Founding_of_Rome">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3406"
+         y="-100"
          x="2260"
-         y="-100">Founding of Rome</tspan></text>
+         style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-100"
+           x="2260"
+           id="tspan3408"
+           sodipodi:role="line">Founding of Rome</tspan></text>
+    </a>
     <a
        id="a3633"
        xlink:href="https://en.wikipedia.org/wiki/Roman_Republic">
@@ -2853,22 +2869,26 @@
            x="2320"
            sodipodi:role="line">Empire</tspan></text>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2450"
-       y="-700"
-       id="text3568"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3570"
+    <a
+       id="a3728"
+       xlink:href="http://en.wikipedia.org/wiki/Achaemenid_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3568"
+         y="-700"
          x="2450"
-         y="-700">Achaemenid Empire</tspan><tspan
-         sodipodi:role="line"
-         x="2450"
-         y="-662.5"
-         id="tspan3572">(1st Persian Empire)</tspan></text>
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-700"
+           x="2450"
+           id="tspan3570"
+           sodipodi:role="line">Achaemenid Empire</tspan><tspan
+           id="tspan3572"
+           y="-662.5"
+           x="2450"
+           sodipodi:role="line">(1st Persian Empire)</tspan></text>
+    </a>
     <a
        id="a4346"
        xlink:href="http://en.wikipedia.org/wiki/Phrygia"
@@ -3059,7 +3079,8 @@
     </a>
     <a
        id="a3605"
-       xlink:href="https://en.wikipedia.org/wiki/Middle_Francia">
+       xlink:href="https://en.wikipedia.org/wiki/Middle_Francia"
+       transform="translate(40,0)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -3076,7 +3097,7 @@
     <a
        id="a3613"
        xlink:href="https://en.wikipedia.org/wiki/East_Francia"
-       transform="translate(10,0)">
+       transform="translate(-50,0)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -3090,18 +3111,22 @@
            id="tspan3611"
            sodipodi:role="line">East Francia</tspan></text>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="3960"
-       y="-290"
-       id="text3617"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3619"
+    <a
+       id="a3754"
+       xlink:href="http://en.wikipedia.org/wiki/Holy_Roman_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3617"
+         y="-290"
          x="3960"
-         y="-290">Holy Roman Empire</tspan></text>
+         style="font-size:50px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-290"
+           x="3960"
+           id="tspan3619"
+           sodipodi:role="line">Holy Roman Empire</tspan></text>
+    </a>
     <a
        id="a3641"
        xlink:href="https://en.wikipedia.org/wiki/Palaiologoi">
@@ -3250,18 +3275,22 @@
            id="tspan3588"
            sodipodi:role="line">Yuezhi</tspan></text>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2800"
-       y="-750"
-       id="text3594"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3596"
+    <a
+       id="a3733"
+       xlink:href="http://en.wikipedia.org/wiki/Indo-Scythians">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3594"
+         y="-750"
          x="2800"
-         y="-750">Indo-Scythians</tspan></text>
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-750"
+           x="2800"
+           id="tspan3596"
+           sodipodi:role="line">Indo-Scythians</tspan></text>
+    </a>
     <a
        id="a3602"
        transform="translate(0,-10)"
@@ -3298,7 +3327,8 @@
     </a>
     <a
        id="a4405"
-       transform="translate(-110,0)">
+       transform="translate(-110,0)"
+       xlink:href="http://en.wikipedia.org/wiki/Huns">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -3344,18 +3374,22 @@
            id="tspan4419"
            sodipodi:role="line">Rouran Khaganate</tspan></text>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="3550"
-       y="-780"
-       id="text4427"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4429"
+    <a
+       id="a3737"
+       xlink:href="http://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4427"
+         y="-780"
          x="3550"
-         y="-780">Göktürks</tspan></text>
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-780"
+           x="3550"
+           id="tspan4429"
+           sodipodi:role="line">Göktürks</tspan></text>
+    </a>
     <a
        id="a4443"
        xlink:href="https://en.wikipedia.org/wiki/Uyghur_Khaganate">
@@ -3689,7 +3723,8 @@
     </a>
     <a
        id="a3666"
-       xlink:href="https://en.wikipedia.org/wiki/Ghaznavids">
+       xlink:href="https://en.wikipedia.org/wiki/Ghaznavids"
+       transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,2130.481,140.89835)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -3721,7 +3756,8 @@
     </a>
     <a
        id="a4453"
-       xlink:href="https://en.wikipedia.org/wiki/Kingdom_of_Germany">
+       xlink:href="https://en.wikipedia.org/wiki/Kingdom_of_Germany"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,2794.3711,908.93824)">
       <text
          transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
          sodipodi:linespacing="125%"
@@ -3966,6 +4002,255 @@
              id="tspan3795"
              sodipodi:role="line">Spanish Empire</tspan></text>
       </a>
+    </a>
+    <a
+       id="a3750"
+       xlink:href="http://en.wikipedia.org/wiki/First_Bulgarian_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3746"
+         y="-390"
+         x="3720"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-390"
+           x="3720"
+           id="tspan3748"
+           sodipodi:role="line">First Bulgarian Empire</tspan></text>
+    </a>
+    <a
+       id="a3783"
+       xlink:href="https://en.wikipedia.org/wiki/Papal_States"
+       transform="translate(381.34766,-8.2773438)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3779"
+         y="-88.652344"
+         x="4028.2773"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-88.652344"
+           x="4028.2773"
+           id="tspan3781"
+           sodipodi:role="line">Papal States</tspan></text>
+    </a>
+    <a
+       id="a4572"
+       xlink:href="https://en.wikipedia.org/wiki/Kingdom_of_Arles"
+       transform="matrix(0,1,-1,0,4456.6054,4169.3242)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4568"
+         y="3433.1023"
+         x="-2246.9033"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"
+         transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+           y="3433.1023"
+           x="-2246.9033"
+           id="tspan4570"
+           sodipodi:role="line">Kingdom of Arles</tspan></text>
+    </a>
+    <a
+       id="a4580"
+       xlink:href="https://en.wikipedia.org/wiki/Kingdom_of_Italy_(medieval)"
+       transform="matrix(0.95567694,-0.29441737,0.29441737,0.95567694,-1144.7686,278.68795)">
+      <text
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4576"
+         y="1649.2117"
+         x="3516.5183"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1649.2117"
+           x="3516.5183"
+           id="tspan4578"
+           sodipodi:role="line">Kingdom of Italy</tspan></text>
+    </a>
+    <a
+       id="a4588"
+       xlink:href="https://en.wikipedia.org/wiki/States_of_Italy">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4584"
+         y="-340"
+         x="4220"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-340"
+           x="4220"
+           id="tspan4586"
+           sodipodi:role="line">States of Italy</tspan></text>
+    </a>
+    <a
+       id="a4596"
+       xlink:href="https://en.wikipedia.org/wiki/Kingdom_of_Italy_(1861%E2%80%931946)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4592"
+         y="-680"
+         x="4840"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"
+         transform="matrix(0,1,-1,0,0,0)"><tspan
+           y="-680"
+           x="4840"
+           id="tspan4594"
+           sodipodi:role="line">Kingdom of Italy</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="249"
+         y="5063"
+         id="text4604"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4606"></tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="550"
+       y="4240"
+       id="text4612"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4614"
+         x="550"
+         y="4240">Ghurid dynasty</tspan></text>
+    <a
+       id="a4620"
+       xlink:href="https://en.wikipedia.org/wiki/Great_Seljuq_Empire">
+      <text
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4616"
+         y="-2624.8779"
+         x="3126.4221"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-2624.8779"
+           x="3126.4221"
+           id="tspan4618"
+           sodipodi:role="line">Great Seljuq Empire</tspan></text>
+    </a>
+    <a
+       id="a4628"
+       xlink:href="https://en.wikipedia.org/wiki/Oghuz_Turks">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4624"
+         y="-730"
+         x="3920"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-730"
+           x="3920"
+           id="tspan4626"
+           sodipodi:role="line">Oghuz Turks</tspan></text>
+    </a>
+    <a
+       id="a4644"
+       xlink:href="https://en.wikipedia.org/wiki/Ottoman_Empire">
+      <text
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4632"
+         y="1756.6283"
+         x="3962.5696"
+         style="font-size:60.0000002px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1756.6283"
+           x="3962.5696"
+           id="tspan4634"
+           sodipodi:role="line">Ottoman Empire</tspan></text>
+    </a>
+    <a
+       id="a4640"
+       xlink:href="https://en.wikipedia.org/wiki/History_of_the_Republic_of_Turkey">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4636"
+         y="-740"
+         x="4920"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-740"
+           x="4920"
+           id="tspan4638"
+           sodipodi:role="line">Turkey</tspan></text>
+    </a>
+    <a
+       id="a4652"
+       xlink:href="https://en.wikipedia.org/wiki/Safavid_dynasty">
+      <text
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4648"
+         y="2828.4272"
+         x="3563.8181"
+         style="font-size:26px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="2828.4272"
+           x="3563.8181"
+           id="tspan4650"
+           sodipodi:role="line">Safavid dynasty</tspan></text>
+    </a>
+    <a
+       id="a4660"
+       xlink:href="https://en.wikipedia.org/wiki/Mughal_Empire">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4656"
+         y="-840"
+         x="4520"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-840"
+           x="4520"
+           id="tspan4658"
+           sodipodi:role="line">Mughal Empire</tspan></text>
+    </a>
+    <a
+       id="a4668"
+       xlink:href="https://en.wikipedia.org/wiki/British_Raj"
+       transform="translate(10,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4664"
+         y="-840"
+         x="4820"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-840"
+           x="4820"
+           id="tspan4666"
+           sodipodi:role="line">British Raj</tspan></text>
+    </a>
+    <a
+       id="a4676"
+       xlink:href="https://en.wikipedia.org/wiki/India"
+       transform="translate(-20,0)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4672"
+         y="-830"
+         x="4920"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-830"
+           x="4920"
+           id="tspan4674"
+           sodipodi:role="line">India</tspan></text>
     </a>
   </g>
   <a
