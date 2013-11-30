@@ -66,7 +66,12 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3066" />
+     id="defs3066">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3770"
+       is_visible="true" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -75,8 +80,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="341.58874"
-     inkscape:cy="591.09113"
+     inkscape:cx="319.4375"
+     inkscape:cy="715.72622"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1234,7 +1239,7 @@
        sodipodi:linespacing="125%"
        transform="translate(0,-3947.6378)"><tspan
          sodipodi:role="line"
-         id="tspan4610"></tspan></text>
+         id="tspan4610" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1316,7 +1321,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
-       style="fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffff00;fill-opacity:0.39215686000000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 100,2250 10,50 5,50 5,50 10,50 5,50 10,50 15,50 15,50 25,50 85,50 105,50 150,50 55,50 5,50 20,-50 -35,-50 -90,-50 -5,-50 30,-50 0,-50 -95,-50 -55,-50 -60,-50 -55,-50 -25,-50 -15,-50 -25,-50 0,-55 -15,-45 -10,-50 -5,-50 10,-50 0,-45 10,-50 0,-55 -20,-100 -15,-50 -10,-50 -5,-50 0,-50 -30,-50 z"
        id="path3901"
        inkscape:connector-curvature="0"
@@ -1407,25 +1412,25 @@
        sodipodi:nodetypes="ccccccccccccccccccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 755,5000 45,0 0,-50 10,-50 55,-50 -10,-50 -30,-50 -5,-50 15,-50 -20,-50 -10,-50 -20,-50 -100,-50 -40,-50 20,-50 -90,-50 0,-50 120,-50 80,-50 35,-50 15,-50 0,-50 -15,-50 -25,-50 -35,-50 -10,-50 -5,50 20,50 15,50 15,50 -5,50 -5,50 -35,50 -80,50 -85,50 0,50 80,50 -20,50 35,50 80,50 25,50 5,50 5,50 -40,50 10,50 25,50 -15,50 -35,50 25,50 z"
+       d="m 730,5000 70,0 0,-50 10,-50 55,-50 -10,-50 -30,-50 -5,-50 15,-50 -20,-50 -10,-50 -20,-50 -100,-50 -40,-50 20,-50 -90,-50 0,-50 120,-50 80,-50 35,-50 15,-50 0,-50 -15,-50 -25,-50 -35,-50 -10,-50 -5,50 20,50 15,50 15,50 -5,50 -5,50 -35,50 -80,50 -85,50 0,50 80,50 -20,50 35,50 80,50 25,50 5,50 5,50 -40,50 10,50 25,50 -15,50 -35,50 0,50 z"
        id="path4010"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 100,3450 0,600 10,50 5,50 -5,50 5,50 5,50 0,50 0,50 0,50 -10,50 -5,50 0,50 0,50 5,50 5,50 25,50 45,50 85,50 115,50 0,50 90,0 0,-50 -105,-50 -30,-50 0,-50 -20,-50 -90,-50 -50,-50 -10,-50 -20,-50 10,-50 0,-50 10,-50 0,-50 0,-50 -10,-50 -20,-50 0,-50 -10,-50 -20,-50 -10,-50 10,-50 10,-50 -10,-50 0,-50 0,-50 0,-50 0,-50 0,-50 0,-50 -5,-50 z"
+       d="m 100,3450 0,600 10,50 5,50 -5,50 5,50 5,50 0,50 0,50 0,50 -10,50 -5,50 0,50 0,50 5,50 10,50 20,50 50,50 80,50 120,50 40,50 45,0 0,-50 -105,-50 -30,-50 0,-50 -20,-50 -90,-50 -50,-50 -10,-50 -20,-50 10,-50 0,-50 10,-50 0,-50 0,-50 -10,-50 -20,-50 0,-50 -10,-50 -20,-50 -10,-50 10,-50 10,-50 -10,-50 0,-50 0,-50 0,-50 0,-50 0,-50 0,-50 -5,-50 z"
        id="path3192"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 100,4050 0,950 55,0 0,-50 -15,-50 -10,-50 -15,-50 -10,-50 -5,-50 0,-100 5,-50 5,-50 10,-50 0,-50 0,-50 0,-50 -5,-50 -5,-50 5,-50 -5,-50 z"
+       d="m 100,4050 0,950 60,0 0,-50 -20,-50 -10,-50 -15,-50 -10,-50 -5,-50 0,-100 5,-50 5,-50 10,-50 0,-50 0,-50 0,-50 -5,-50 -5,-50 5,-50 -5,-50 z"
        id="path3962"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 105,4550 -5,50 0,50 0,50 5,50 10,50 15,50 10,50 15,50 5,50 140,0 0,-50 -70,-50 -65,-50 -35,-50 -15,-50 -5,-50 -5,-50 0,-50 z"
+       d="m 105,4550 -5,50 0,50 0,50 5,50 10,50 15,50 10,50 20,50 0,50 140,0 0,-50 -70,-50 -60,-50 -40,-50 -10,-50 -10,-50 -5,-50 0,-50 z"
        id="path3266"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
@@ -1451,7 +1456,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
-       style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#00ff00;fill-opacity:0.39215686000000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 200,4000 10,50 5,50 -15,50 0,50 0,50 10,50 0,50 0,50 5,100 30,50 70,50 40,50 10,50 35,50 10,50 -5,50 5,50 95,50 0,50 -5,0 0,-50 -105,-50 -5,-50 -5,-50 -20,-50 -55,-50 -30,-50 -15,-50 -60,-50 -15,-50 10,-100 0,-50 0,-50 -10,-50 0,-50 0,-50 0,-50 0,-50 0,-50 -20,-50 z"
        id="path4042"
        inkscape:connector-curvature="0"
@@ -1485,26 +1490,28 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 470,4100 -30,50 -80,50 -40,50 -10,50 50,50 10,50 50,50 20,50 155,100 35,50 -45,50 20,50 50,50 25,50 -40,50 35,50 0,50 30,0 0,-50 -30,-50 25,-50 -10,-50 -65,-50 -20,-50 40,-50 -30,-50 -70,-50 -85,-50 -15,-50 -55,-50 -5,-50 -45,-50 0,-50 35,-50 85,-50 z"
+       d="m 470,4100 -30,50 -80,50 -40,50 -10,50 50,50 10,50 50,50 20,50 155,100 35,50 -45,50 20,50 50,50 25,50 -40,50 35,50 0,50 25,0 0,-50 -20,-50 20,-50 -10,-50 -65,-50 -20,-50 40,-50 -30,-50 -70,-50 -85,-50 -15,-50 -55,-50 -5,-50 -45,-50 0,-50 35,-50 85,-50 z"
        id="path4060"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 755,3900 -35,50 -25,50 -50,50 -30,50 30,50 -45,50 -90,50 -70,50 10,50 -20,50 40,50 45,50 70,50 50,50 40,50 -25,50 15,50 50,50 10,50 -25,50 40,50 0,50 15,0 0,-50 -25,-50 35,-50 15,-50 -35,-50 -20,-50 15,-50 -20,-50 -5,-50 -15,-50 -80,-50 -45,-50 15,-50 -70,-50 15,-50 75,-50 70,-50 40,-50 30,-50 10,-50 5,-50 z"
+       d="m 755,3900 -35,50 -25,50 -50,50 -30,50 30,50 -45,50 -90,50 -70,50 10,50 -20,50 40,50 45,50 70,50 50,50 40,50 -25,50 15,50 50,50 10,50 -25,50 10,50 0,50 20,0 0,-50 0,-50 35,-50 15,-50 -35,-50 -20,-50 15,-50 -20,-50 -5,-50 -15,-50 -80,-50 -45,-50 15,-50 -70,-50 20,-50 70,-50 60,-50 40,-50 30,-50 20,-50 5,-50 z"
        id="path4062"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 755,3900 30,100 -10,100 -35,50 -80,50 -85,50 0,50 -30,-50 -25,50 15,-50 75,-50 70,-50 40,-50 30,-50 10,-50 5,-50 z"
+       d="m 755,3900 30,100 -10,100 -35,50 -80,50 -85,50 0,50 -15,-50 70,-50 50,-50 40,-50 30,-50 10,-50 5,-50 z"
        id="path3977"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
     <path
        style="fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 780,4800 -35,-50 -20,-50 15,-50 -20,-50 -5,-50 -15,-50 -80,-50 -15,-50 20,-50 -80,-50 0,-50 30,50 80,50 -20,50 35,50 80,50 25,50 5,50 5,50 -40,50 10,50 z"
+       d="m 780,4800 -35,-50 -20,-50 15,-50 -20,-50 -5,-50 -15,-50 -80,-50 -15,-50 20,-50 -85,-50 0,-50 70,-50 58.75,-50 41.25,-50 30,-50 20,-50 -10,50 -30,50 -40,50 -50,50 -70,50 15,50 80,50 -20,50 35,50 80,50 25,50 5,50 5,50 -40,50 10,50 z"
        id="path3211"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:#0000ff;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 330,3850 -20,0 20,50 30,50 40,50 30,50 10,50 -20,50 -80,50 -40,50 -10,50 50,50 20,50 10,50 0,-50 -10,-50 -50,-50 10,-50 40,-50 80,-50 30,-50 -10,-50 -40,-50 -40,-50 -30,-50 z"
@@ -1513,7 +1520,7 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccc" />
     <path
        style="fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 430,4400 20,50 15,50 85,50 70,50 35,50 -45,50 15,50 65,50 25,50 -25,50 40,50 0,50 10,0 0,-50 -40,-50 25,-50 -10,-50 -50,-50 -15,-50 25,-50 -40,-50 -50,-50 -70,-50 -45,-50 z"
+       d="m 430,4400 20,50 15,50 85,50 70,50 35,50 -45,50 15,50 65,50 10,50 -20,50 20,50 0,50 10,0 0,-50 -10,-50 25,-50 -10,-50 -50,-50 -15,-50 25,-50 -40,-50 -50,-50 -70,-50 -45,-50 z"
        id="path3983"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccc" />
@@ -1525,9 +1532,10 @@
        sodipodi:nodetypes="ccccccccccccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 545,4250 -25,50 70,50 -15,50 45,50 -15,-50 20,-50 -80,-50 z"
+       d="m 540,4250 -20,50 70,50 -15,50 45,50 -15,-50 20,-50 -85,-50 z"
        id="path3984"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
     <a
        id="a3239"
        xlink:href="http://en.wikipedia.org/wiki/Aegean_civilizations"
@@ -3737,6 +3745,16 @@
            x="4000"
            id="tspan3664"
            sodipodi:role="line">Ghaznavids</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="13"
+         y="4643"
+         id="text3796"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.86602539,-0.5,0.5,0.86602539,-1915.4998,943.21895)"><tspan
+           sodipodi:role="line"
+           id="tspan3798"></tspan></text>
     </a>
     <a
        id="a4445"
@@ -3952,7 +3970,7 @@
            sodipodi:role="line">Denmark</tspan></text>
     </a>
     <a
-       id="a3781"
+       id="a3868"
        xlink:href="http://en.wikipedia.org/wiki/Dutch_Empire">
       <text
          inkscape:transform-center-x="43.335004"
@@ -3961,47 +3979,47 @@
          id="text3777"
          y="2074.4744"
          x="4033.095"
-         style="font-size:28.00000009px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"
          inkscape:transform-center-y="-11.072892"><tspan
            y="2074.4744"
            x="4033.095"
            id="tspan3779"
            sodipodi:role="line">Dutch Empire</tspan></text>
-      <a
-         id="a3789"
-         transform="translate(-10,-90)"
-         xlink:href="http://en.wikipedia.org/wiki/History_of_the_Netherlands">
-        <text
-           transform="matrix(0,1,-1,0,0,0)"
-           sodipodi:linespacing="125%"
-           id="text3785"
-           y="-200"
+    </a>
+    <a
+       xlink:href="http://en.wikipedia.org/wiki/History_of_the_Netherlands"
+       transform="translate(-10,-90)"
+       id="a3789">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="4300"
+         y="-200"
+         id="text3785"
+         sodipodi:linespacing="125%"
+         transform="matrix(0,1,-1,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3787"
            x="4300"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             style="font-size:10px"
-             y="-200"
-             x="4300"
-             id="tspan3787"
-             sodipodi:role="line">Netherlands</tspan></text>
-      </a>
-      <a
-         id="a3797"
-         xlink:href="http://en.wikipedia.org/wiki/Spanish_Empire">
-        <text
-           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
-           sodipodi:linespacing="125%"
-           id="text3793"
-           y="2991.0618"
+           y="-200"
+           style="font-size:10px">Netherlands</tspan></text>
+    </a>
+    <a
+       xlink:href="http://en.wikipedia.org/wiki/Spanish_Empire"
+       id="a3797">
+      <text
+         xml:space="preserve"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="3344.615"
+         y="2991.0618"
+         id="text3793"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3795"
            x="3344.615"
-           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             y="2991.0618"
-             x="3344.615"
-             id="tspan3795"
-             sodipodi:role="line">Spanish Empire</tspan></text>
-      </a>
+           y="2991.0618">Spanish Empire</tspan></text>
     </a>
     <a
        id="a3750"
@@ -4109,7 +4127,7 @@
          id="text4604"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan4606"></tspan></text>
+           id="tspan4606" /></text>
     </a>
     <text
        xml:space="preserve"
@@ -4172,7 +4190,8 @@
     </a>
     <a
        id="a4640"
-       xlink:href="https://en.wikipedia.org/wiki/History_of_the_Republic_of_Turkey">
+       xlink:href="https://en.wikipedia.org/wiki/History_of_the_Republic_of_Turkey"
+       transform="translate(-30,0)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -4251,6 +4270,167 @@
            x="4920"
            id="tspan4674"
            sodipodi:role="line">India</tspan></text>
+    </a>
+    <path
+       style="fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 300,5000 0,-50 -70,-50 -60,-50 -40,-50 -10,-50 20,50 50,50 80,50 120,50 40,50 -130,0"
+       id="path3768"
+       inkscape:path-effect="#path-effect3770"
+       inkscape:original-d="m 300,5000 0,-50 -70,-50 -60,-50 -40,-50 -10,-50 20,50 50,50 80,50 120,50 40,50 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <a
+       id="a4544"
+       xlink:href="https://en.wikipedia.org/wiki/South_America">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4540"
+         y="-100"
+         x="4820"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-100"
+           x="4820"
+           id="tspan4542"
+           sodipodi:role="line">South America</tspan></text>
+    </a>
+    <a
+       id="a4552"
+       xlink:href="http://en.wikipedia.org/wiki/Afsharid_dynasty">
+      <text
+         inkscape:transform-center-x="37.258409"
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4548"
+         y="2906.209"
+         x="3797.1633"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="2906.209"
+           x="3797.1633"
+           id="tspan4550"
+           sodipodi:role="line">Afsharid dynasty</tspan></text>
+    </a>
+    <a
+       id="a4562"
+       xlink:href="http://en.wikipedia.org/wiki/Hotaki_Empire">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4556"
+         y="4720"
+         x="620"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="4720"
+           x="620"
+           id="tspan4558"
+           sodipodi:role="line">Hotaki </tspan><tspan
+           id="tspan4560"
+           y="4732.5"
+           x="620"
+           sodipodi:role="line">Empire</tspan></text>
+    </a>
+    <a
+       id="a3784"
+       xlink:href="http://en.wikipedia.org/wiki/Portugal">
+      <text
+         transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3780"
+         y="3754.4348"
+         x="2537.1282"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="3754.4348"
+           x="2537.1282"
+           id="tspan3782"
+           sodipodi:role="line">Portugal</tspan></text>
+    </a>
+    <a
+       id="a3792"
+       xlink:href="http://en.wikipedia.org/wiki/Serbia"
+       transform="translate(0,20)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3788"
+         y="-590"
+         x="4340"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-590"
+           x="4340"
+           id="tspan3790"
+           sodipodi:role="line">Serbia</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="4570"
+       y="-750"
+       id="text3800"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="4570"
+         y="-750"
+         id="tspan3804">Polish–Lithuanian </tspan><tspan
+         sodipodi:role="line"
+         x="4570"
+         y="-727.5"
+         id="tspan3808">Commonwealth</tspan></text>
+    <a
+       id="a3839"
+       xlink:href="http://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania">
+      <text
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3810"
+         y="1653.686"
+         x="3964.2683"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1653.686"
+           x="3964.2683"
+           id="tspan3812"
+           sodipodi:role="line">Grand Duchy of Lithuania</tspan></text>
+    </a>
+    <a
+       id="a3843"
+       xlink:href="http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1025%E2%80%931385)">
+      <text
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3814"
+         y="1668.686"
+         x="3990.249"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1668.686"
+           x="3990.249"
+           id="tspan3816"
+           sodipodi:role="line">Kingdom of Poland</tspan></text>
+    </a>
+    <a
+       id="a3855"
+       xlink:href="http://en.wikipedia.org/wiki/Soviet_Union">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3847"
+         y="-770"
+         x="4920"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-770"
+           x="4920"
+           id="tspan3849"
+           sodipodi:role="line">Soviet </tspan><tspan
+           id="tspan3853"
+           y="-745"
+           x="4920"
+           sodipodi:role="line">Union</tspan></text>
     </a>
   </g>
   <a
