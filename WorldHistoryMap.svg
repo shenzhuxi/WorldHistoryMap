@@ -14,7 +14,7 @@
    height="5000"
    id="svg3064"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="WorldHistoryMap.svg">
   <title
      id="title2993">Histomap</title>
@@ -81,13 +81,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="319.4375"
-     inkscape:cy="715.72622"
+     inkscape:cy="4355.7262"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1389"
-     inkscape:window-height="856"
-     inkscape:window-x="51"
+     inkscape:window-height="855"
+     inkscape:window-x="1890"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
@@ -1884,7 +1884,7 @@
     </a>
     <a
        id="a4210"
-       xlink:href="http://en.wikipedia.org/wiki/Egypt">
+       xlink:href="http://en.wikipedia.org/wiki/Badari_culture">
       <text
          inkscape:transform-center-y="-41.450244"
          inkscape:transform-center-x="-8.6542416"
@@ -3754,7 +3754,7 @@
          sodipodi:linespacing="125%"
          transform="matrix(0.86602539,-0.5,0.5,0.86602539,-1915.4998,943.21895)"><tspan
            sodipodi:role="line"
-           id="tspan3798"></tspan></text>
+           id="tspan3798" /></text>
     </a>
     <a
        id="a4445"
